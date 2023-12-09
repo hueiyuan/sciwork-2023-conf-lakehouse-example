@@ -1,0 +1,1140 @@
+partner,course,rating,reviewcount,level,certificatetype,duration,crediteligibility
+Google,Google Cybersecurity,4.8,16.4k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Google Data Analytics,4.8,133.4k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+Google,Google Project Management:,4.8,97.3k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+Google,Google Digital Marketing & E-commerce,4.8,21.4k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Google IT Support,4.8,181.4k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+IBM,IBM Data Science,4.6,118.9k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+Google,Google UX Design,4.8,73.7k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+IBM,IBM Data Analyst,4.6,71.5k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+Multiple educators,Machine Learning,4.9,17.7k,Beginner , Specialization , 1 - 3 Months,FALSE
+IBM,Introduction to Data Science,4.6,85k,Beginner , Specialization , 3 - 6 Months,TRUE
+DeepLearning.AI,Generative AI for Everyone,4.9,188,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,IBM DevOps and Software Engineering,4.6,43.2k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,IBM Full Stack Software Developer,4.6,41.2k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+IBM,Key Technologies for Business,4.7,81.5k,Beginner , Specialization , 1 - 3 Months,FALSE
+IBM,Data Science Fundamentals with Python and SQL,4.6,59.2k,Beginner , Specialization , 3 - 6 Months,TRUE
+University of Virginia Darden School Foundation,IBM & Darden Digital Strategy,4.7,29.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,IBM Data Engineering,4.6,46.2k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+IBM,IBM Data Analytics with Excel and R,4.7,19.9k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+IBM,Data Analysis and Visualization Foundations,4.7,19.3k,Beginner , Specialization , 3 - 6 Months,TRUE
+DeepLearning.AI,Deep Learning,4.8,141.5k,Intermediate , Specialization , 3 - 6 Months,TRUE
+IBM,IBM AI Foundations for Business,4.7,77.2k,Beginner , Specialization , 1 - 3 Months,FALSE
+IBM,Data Engineering Foundations,4.6,45.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,IBM Back-End Development,4.6,36.7k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,Applied Data Science,4.6,48.5k,Beginner , Specialization , 3 - 6 Months,TRUE
+IBM,IBM Applied AI,4.6,46.2k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Macquarie University,Excel Skills for Business,4.9,59k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,Applied Software Engineering Fundamentals,4.6,36k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Generative AI with Large Language Models,4.8,1.3k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Google,Google Advanced Data Analytics,4.7,2.2k,Advanced , Professional Certificate , 3 - 6 Months,FALSE
+IBM,"DevOps, Cloud, and Agile Foundations",4.7,7.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+Meta,Meta Front-End Developer,4.7,14.7k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,Cloud Application Development Foundations,4.6,6.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Foundations of Project Management,4.9,73.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Foundations of Cybersecurity,4.9,11.8k,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,IBM IT Support,4.7,6.6k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,"Foundations: Data, Data, Everywhere",4.8,93.9k,Beginner , Course , 1 - 3 Months,FALSE
+SkillUp EdTech,IBM IT Project Manager,4.8,2.4k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Google IT Automation with Python,4.7,42k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,Information Technology (IT) and Cloud Fundamentals,4.7,6.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+Vanderbilt University,Prompt Engineering,4.8,1.8k,Beginner , Specialization , 1 - 3 Months,FALSE
+Microsoft,Microsoft Power BI Data Analyst,4.6,907,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,IBM Data Warehouse Engineer,4.7,3.6k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,IBM Cybersecurity Analyst,4.6,21.7k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+DeepLearning.AI,AI For Everyone,4.8,39.4k,Beginner , Course , 1 - 4 Weeks,FALSE
+DeepLearning.AI,Supervised Machine Learning: Regression and Classification,4.9,15k,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,IBM DevOps and Software Engineering,None,None,,None,None,FALSE
+IBM,IBM Front-End Developer,4.6,1.6k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Technical Support Fundamentals,4.8,145.6k,Beginner , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Business Foundations,4.7,24.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,"BI Foundations with SQL, ETL and Data Warehousing",4.6,19.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,AI Foundations for Everyone,4.7,13.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+SkillUp EdTech,IBM IT Scrum Master,4.8,3.8k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+SkillUp EdTech,IBM Project Manager,4.8,1.8k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,IBM Applied DevOps Engineering,4.7,4.1k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+IBM,IBM AI Engineering,4.6,17.3k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+IBM,IT Fundamentals for Cybersecurity,4.6,19.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Mathematics for Machine Learning and Data Science,4.6,1.3k,Beginner , Specialization , 1 - 3 Months,FALSE
+University of Michigan,Python for Everybody,4.8,268.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Meta,Meta React Native,4.7,6.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Project Execution: Running the Project,4.8,7.1k,Beginner , Course , 1 - 3 Months,FALSE
+Coursera Project Network,Tableau Public for Project Management and Beyond,None,None,,None,None,FALSE
+Meta,Meta Social Media Marketing,4.8,17.5k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+Google,Foundations of Digital Marketing and E-commerce,4.8,15.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+Vanderbilt University,Prompt Engineering for ChatGPT,4.8,1.7k,Beginner , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Finance & Quantitative Modeling for Analysts,4.5,15.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Introduction to Finance and Accounting,4.6,12.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,AI in Healthcare,4.7,1.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Machine Learning Engineering for Production (MLOps),4.7,3.3k,Advanced , Specialization , 3 - 6 Months,FALSE
+Google,Play It Safe: Manage Security Risks,4.8,3.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Michigan,Python 3 Programming,4.7,21.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Natural Language Processing,4.6,5.5k,Intermediate , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,DeepLearning.AI TensorFlow Developer,4.7,24.3k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Meta,Meta Back-End Developer,4.7,6.1k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Meta,Meta iOS Developer,4.7,4.9k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Foundations of User Experience (UX) Design,4.8,60.4k,Beginner , Course , 1 - 4 Weeks,FALSE
+Meta,Meta Android Developer,4.6,5.1k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Pennsylvania,Business and Financial Modeling,4.5,10.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,AI For Business,4.7,400,Beginner , Specialization , 3 - 6 Months,FALSE
+Google - Spectrum Sharing,Become a CBRS Certified Professional Installer by Google,4.6,184,Mixed , Course , 1 - 3 Months,FALSE
+Intuit,Intuit Academy Bookkeeping,4.6,4.9k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Google Business Intelligence,4.7,940,Advanced , Professional Certificate , 3 - 6 Months,FALSE
+Google,Project Initiation: Starting a Successful Project,4.8,17.8k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Ask Questions to Make Data-Driven Decisions,4.7,28.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+Meta,Meta Database Engineer,4.6,4.4k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Microsoft,Microsoft Cybersecurity Analyst,4.8,566,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Análisis de Datos de Google,4.8,6.7k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Pennsylvania,Business Analytics,4.6,17.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+HRCI,HRCI Human Resource Associate,4.7,327,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Connect and Protect: Networks and Network Security,4.8,2k,Beginner , Course , 1 - 4 Weeks,FALSE
+Yale University,Financial Markets,4.8,26.1k,Beginner , Course , 1 - 3 Months,FALSE
+Google,Ciberseguridad de Google,4.9,1k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Alberta,Indigenous Canada,4.8,21.5k,Mixed , Course , 1 - 3 Months,FALSE
+Google,The Bits and Bytes of Computer Networking,4.7,46.4k,Beginner , Course , 1 - 3 Months,FALSE
+SAP,SAP Technology Consultant,4.7,494,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,IBM Machine Learning,4.6,1.9k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Arizona State University,"TESOL Certificate, Part 1: Teach English Now!",4.9,16.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Preparing for Google Cloud Certification: Cloud Architect,4.7,57.9k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+IBM,IBM Introduction to Machine Learning,4.6,1.8k,Intermediate , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Advanced Learning Algorithms,4.9,4k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google Cloud,Preparing for Google Cloud Certification: Cloud Engineer,4.7,57.7k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Google Cloud,Architecting with Google Compute Engine,4.7,56.8k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Google,Prepare Data for Exploration,4.8,17.5k,Beginner , Course , 1 - 3 Months,FALSE
+DeepLearning.AI,Neural Networks and Deep Learning,4.9,120.1k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Microsoft,Microsoft 365 Fundamentals,4.7,2.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Virginia,Leading the Modern Day Business,4.7,19.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Gestión de Proyectos de Google,4.9,6k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Virginia,Digital Product Management,4.7,9.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+SkillUp EdTech,Modern Project Management,4.6,108,Beginner , Specialization , 3 - 6 Months,FALSE
+California Institute of the Arts,Graphic Design,4.7,19.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+IIMA - IIM Ahmedabad,Leadership Skills,4.8,850,Beginner , Course , 1 - 3 Months,FALSE
+Georgia Institute of Technology,Improve Your English Communication Skills,4.7,25.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,The Materiality of ESG Factors,4.7,870,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Regulatory Compliance,4.8,2k,Intermediate , Specialization , 3 - 6 Months,FALSE
+IBM,IBM Data Science,None,None,,None,None,FALSE
+Google Cloud,Preparing for Google Cloud Certification: Machine Learning Engineer,4.6,25.5k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Google,Tools of the Trade: Linux and SQL,4.8,1.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google Cloud,Preparing for Google Cloud Certification: Cloud DevOps Engineer,4.7,52.8k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google Cloud,Google Cloud Database Engineer,4.7,47.6k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Google,Project Planning: Putting It All Together,4.8,10.6k,Beginner , Course , 1 - 3 Months,FALSE
+Yale University,The Science of Well-Being,4.9,36.9k,Mixed , Course , 1 - 3 Months,FALSE
+Amazon Web Services,AWS Cloud Technology Consultant,4.8,4.4k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google Cloud,Architecting with Google Kubernetes Engine,4.7,48.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,Writing in the Sciences,4.9,8.1k,Beginner , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Foundations of Positive Psychology,4.8,7.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,"Start the UX Design Process: Empathize, Define, and Ideate",4.8,13.5k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google Cloud,Preparing for Google Cloud Certification: Cloud Developer,4.7,51.2k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+IBM,What is Data Science?,4.7,66.2k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Attract and Engage Customers with Digital Marketing,4.8,4.2k,Beginner , Course , 1 - 4 Weeks,FALSE
+Amazon Web Services,AWS Cloud Solutions Architect,4.8,4.7k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+"University of California, Davis",Learn SQL Basics for Data Science,4.6,16.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Yale University,Introduction to Psychology,4.9,27.1k,Beginner , Course , 1 - 3 Months,FALSE
+Columbia University,Construction Management,4.7,8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Salesforce,Salesforce Sales Operations,4.6,1.1k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+Google Cloud,Preparing for Google Cloud Certification: Cloud Security Engineer,4.7,48.8k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Amazon Web Services,AWS Fundamentals,4.8,4.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+PwC,Data Analysis and Presentation Skills: the PwC Approach,4.6,10.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Developing Applications with Google Cloud,4.7,48.3k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Rutgers the State University of New Jersey,Supply Chain Management,4.7,13.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Google Marketing Digital e E-Commerce,4.9,715,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google Cloud,Preparing for Google Cloud Certification: Cloud Data Engineer,4.6,18.2k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Google,Diseño de Experiencia del Usuario (UX) de Google,4.9,3.2k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google Cloud,Preparing for Google Cloud Certification: Cloud Network Engineer,4.7,48.2k,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Google Cloud,Security in Google Cloud,4.7,48k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Networking in Google Cloud,4.7,48.2k,Intermediate , Specialization , 3 - 6 Months,FALSE
+IBM,Security Analyst Fundamentals,4.7,3.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,Introduction to Statistics,4.6,2.6k,Beginner , Course , 1 - 3 Months,FALSE
+IBM,Introduction to Data Analytics,4.8,13.5k,Beginner , Course , 1 - 3 Months,FALSE
+Google Cloud,Introduction to Generative AI,4.6,1.9k,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,IBM Data Analyst,None,None,,None,None,FALSE
+Google Cloud,"Data Engineering, Big Data, and Machine Learning on GCP",4.6,17.9k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Arizona State University,Arizona State University TESOL,4.9,18.1k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Amazon Web Services,DevOps on AWS,4.8,4.6k,Intermediate , Specialization , 1 - 3 Months,FALSE
+Google,Process Data from Dirty to Clean,4.8,13.3k,Beginner , Course , 1 - 3 Months,FALSE
+Google,Agile Project Management,4.8,10.4k,Beginner , Course , 1 - 4 Weeks,FALSE
+Microsoft,Microsoft Azure Data Engineering Associate (DP-203),4.4,785,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Google,Operating Systems and You: Becoming a Power User,4.7,26.5k,Beginner , Course , 1 - 3 Months,FALSE
+DeepLearning.AI,Linear Algebra for Machine Learning and Data Science,4.5,940,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,Generative AI Fundamentals,4.6,12,Beginner , Specialization , 1 - 3 Months,FALSE
+Vanderbilt University,ChatGPT Advanced Data Analysis,4.9,93,Beginner , Course , 1 - 3 Months,FALSE
+University of Virginia,Business Strategy,4.8,4k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Illinois at Urbana-Champaign,Digital Marketing,4.7,22.4k,Beginner , Specialization , 3 - 6 Months,TRUE
+Johns Hopkins University,"HTML, CSS, and Javascript for Web Developers",4.7,15.9k,Mixed , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Entrepreneurship,4.8,5.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Davis",Search Engine Optimization (SEO),4.6,12.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,"Unsupervised Learning, Recommenders, Reinforcement Learning",4.9,2k,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,"NoSQL, Big Data, and Spark Foundations",4.4,452,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,"Python for Data Science, AI & Development",4.6,34k,Beginner , Course , 1 - 3 Months,FALSE
+Duke University,AI Product Management,4.7,350,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Crash Course on Python,4.8,34.5k,Beginner , Course , 1 - 3 Months,FALSE
+Google,Google IT Support,None,None,,None,None,FALSE
+University of California San Diego,Data Structures and Algorithms,4.6,16.2k,Intermediate , Specialization , 3 - 6 Months,FALSE
+ISC2,Certified in Cybersecurity,4.8,382,Beginner , Specialization , 3 - 6 Months,FALSE
+Johns Hopkins University,Data Science,4.5,50.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Generative Adversarial Networks (GANs),4.7,2.1k,Intermediate , Specialization , 1 - 3 Months,FALSE
+Google,"Assets, Threats, and Vulnerabilities",4.8,1k,Beginner , Course , 1 - 4 Weeks,FALSE
+Johns Hopkins University,Genomic Data Science,4.5,6.1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Google,Cybersécurité Google,4.7,33,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Illinois at Urbana-Champaign,U.S. Federal Taxation,4.8,822,Intermediate , Specialization , 3 - 6 Months,TRUE
+Stanford University,Algorithms,4.8,5.8k,Intermediate , Specialization , 3 - 6 Months,FALSE
+MedCerts,Medical Billing and Coding Fundamentals,4.8,188,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,TensorFlow: Advanced Techniques,4.8,1.4k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Applied Data Science with Python,4.5,33.5k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Imperial College London,Mathematics for Machine Learning,4.6,14k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Alberta,Reinforcement Learning,4.7,3.3k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Illinois at Urbana-Champaign,Mergers and Acquisitions,4.6,249,Intermediate , Specialization , 3 - 6 Months,TRUE
+University of Michigan,Leading People and Teams,4.7,10.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Virginia,Fundamentals of Project Planning and Management,4.7,9.3k,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,IBM Full Stack Software Developer,None,None,,None,None,FALSE
+University of Pennsylvania,The Business of Health Care,4.6,1.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,AI for Good,4.8,160,Beginner , Specialization , 1 - 3 Months,FALSE
+Google,Analyze Data to Answer Questions,4.6,9.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+Johns Hopkins University,Data Science: Foundations using R,4.6,47.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+Meta,Meta Marketing Analytics,4.7,2.1k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Measure What Matters,OKR Certification: Leadership and Goal Setting,4.8,320,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,Introduction to Artificial Intelligence (AI),4.7,11.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,Achieving Personal and Professional Success,4.7,3k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,People and Soft Skills for Professional and Personal Success,4.6,641,Beginner , Specialization , 1 - 3 Months,FALSE
+Johns Hopkins University,Business Analytics with Excel: Elementary to Advanced,4.8,1.1k,Intermediate , Course , 1 - 3 Months,FALSE
+Google,System Administration and IT Infrastructure Services,4.7,23.7k,Beginner , Course , 1 - 3 Months,FALSE
+University of Michigan,Successful Negotiation: Essential Strategies and Skills,4.8,18.8k,Beginner , Course , 1 - 3 Months,FALSE
+Columbia University,Financial Engineering and Risk Management,4.5,207,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Introduction to Programming with Python and Java,4.4,1.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Virginia,Entrepreneurship: Growing Your Business,4.8,7.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+IESE Business School,Think like a CFO,4.8,5.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Fintech: Foundations & Applications of Financial Technology,4.6,3.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+Johns Hopkins University,Psychological First Aid,4.8,18.4k,Mixed , Course , 1 - 3 Months,FALSE
+Google,Google Data Analytics (PT),4.9,2.9k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+MedCerts,Pharmacy Technician Fundamentals,4.7,126,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,Tools for Data Science,4.5,27.6k,Beginner , Course , 1 - 3 Months,FALSE
+Multiple educators,Practical Data Science on the AWS Cloud,4.5,524,Advanced , Specialization , 1 - 3 Months,FALSE
+Università Bocconi,Private Equity and Venture Capital,4.8,7.8k,Mixed , Course , 1 - 3 Months,FALSE
+Google,Foundations of Business Intelligence,4.8,670,Advanced , Course , 1 - 4 Weeks,FALSE
+"University of California, Davis",Geographic Information Systems  (GIS),4.8,5.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Minnesota,Human Resource Management: HR for People Managers,4.8,13.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Yale University,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,4.9,4.7k,Mixed , Course , 1 - 3 Months,FALSE
+University of Alberta,Software Product Management,4.7,11.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Irvine",Project Management & Other Tools for Career Development,4.7,34.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of Maryland, College Park","Product Ideation, Design, and Management",4.5,470,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,Excel Basics for Data Analysis,4.8,6.7k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Irvine",UCI Project Management,4.7,276,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google Cloud,Getting started with Google Workspace,4.7,1.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,Organizational Analysis,4.6,1.4k,Beginner , Course , 1 - 3 Months,FALSE
+Google,Google Data Analytics,4.5,115,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Michigan,Programming for Everybody (Getting Started with Python),4.8,224.9k,Beginner , Course , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,Instructional Design Foundations and Applications,4,638,Mixed , Course , 1 - 3 Months,FALSE
+DeepLearning.AI,Generative AI for Everyone,None,None,Course,None,None,FALSE
+DeepLearning.AI,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",4.9,62.6k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Google,Share Data Through the Art of Visualization,4.6,7.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+DeepLearning.AI,AI for Medicine,4.7,2.2k,Intermediate , Specialization , 1 - 3 Months,FALSE
+Google,Foundations of Data Science,4.7,1.3k,Advanced , Course , 1 - 3 Months,FALSE
+Google,Sound the Alarm: Detection and Response,4.8,746,Beginner , Course , 1 - 4 Weeks,FALSE
+Microsoft,Microsoft Azure Fundamentals AZ-900 Exam Prep,4.6,2.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,Project Management,4.8,452,Beginner , Specialization , 1 - 3 Months,FALSE
+Stanford University,Game Theory,4.6,4.5k,Beginner , Course , 1 - 3 Months,FALSE
+California Institute of the Arts,UI / UX Design,4.7,7.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+IESE Business School,Foundations of Management,4.8,4.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+Intuit,Bookkeeping Basics,4.6,4k,Beginner , Course , 1 - 4 Weeks,FALSE
+LearnQuest,Scrum Master Certification,4.7,2.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Illinois at Urbana-Champaign,Financial Analysis - Skills for Success,4.7,160,Beginner , Specialization , 1 - 3 Months,FALSE
+Google,From Likes to Leads: Interact with Customers Online,4.8,2.1k,Beginner , Course , 1 - 3 Months,FALSE
+Google Cloud,Google Professional Workspace Administrator,4.7,2.9k,Beginner , Professional Certificate , 1 - 4 Weeks,FALSE
+Google,Data Analysis with R Programming,4.8,8.7k,Beginner , Course , 1 - 3 Months,FALSE
+Yale University,Connected Leadership,4.8,247,Beginner , Course , 1 - 3 Months,FALSE
+Tableau Learning Partner,Tableau Business Intelligence Analyst,4.8,97,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,Applied Data Science with R,4.5,803,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,Stanford Introduction to Food and Health,4.7,30.2k,Beginner , Course , 1 - 3 Months,FALSE
+IBM,IBM DevOps and Software Engineering,None,None,,None,None,FALSE
+Google,Google Project Management,4.6,149,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Virginia,Artificial Intelligence in Marketing,4.5,146,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,Introduction to Cloud Computing,4.6,4.7k,Beginner , Course , 1 - 3 Months,FALSE
+Johns Hopkins University,Clinical Trials Operations,4.8,217,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Irvine",Project Management Principles and Practices,4.7,28.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Università Bocconi,Management of Fashion and Luxury Companies,4.7,5.6k,Mixed , Course , 1 - 3 Months,FALSE
+Google,Soporte de Tecnologías de la Información de Google,4.9,14.7k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Wesleyan University,Creative Writing,4.6,5.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Introduction to Machine Learning in Production,4.8,2.6k,Advanced , Course , 1 - 4 Weeks,FALSE
+Macquarie University,"Influencing: Storytelling, Change Management and Governance",4.8,3.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Automate Cybersecurity Tasks with Python,4.8,726,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,IT Security: Defense against the digital dark arts,4.8,21k,Beginner , Course , 1 - 3 Months,FALSE
+Johns Hopkins University,Principles of Management,4.7,206,Mixed , Course , 1 - 4 Weeks,FALSE
+Google,Build Wireframes and Low-Fidelity Prototypes,4.9,7.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Illinois at Urbana-Champaign,Accelerated Computer Science Fundamentals,4.7,3.3k,Intermediate , Specialization , 1 - 3 Months,FALSE
+"University of California, Irvine",Career Success,4.6,41.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,AI Fundamentals for Non-Data Scientists,4.8,210,Mixed , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,Intellectual Property Law,4.8,1.2k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Fundamentals of Quantitative Modeling,4.6,8.6k,Mixed , Course , 1 - 4 Weeks,FALSE
+University of Amsterdam,Methods and Statistics in Social Sciences,4.6,7.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Virginia,Pricing Strategy Optimization,4.8,864,Beginner , Specialization , 3 - 6 Months,FALSE
+The Museum of Modern Art,Modern and Contemporary Art and Design,4.8,14.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Davis",The Strategy of Content Marketing,4.5,4.3k,Intermediate , Course , 1 - 3 Months,FALSE
+Stanford University,Introduction to Healthcare,4.8,780,Beginner , Course , 1 - 3 Months,FALSE
+Google,Capstone: Applying Project Management in the Real World,4.8,6.8k,Beginner , Course , 1 - 4 Weeks,FALSE
+Duke University,Java Programming and Software Engineering Fundamentals,4.6,21.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Natural Language Processing with Classification and Vector Spaces,4.6,4.1k,Intermediate , Course , 1 - 4 Weeks,FALSE
+IBM,Introduction to Cybersecurity Tools & Cyber Attacks,4.6,14.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of London,"Brand Management: Aligning Business, Brand and Behaviour",4.9,7k,Beginner , Course , 1 - 3 Months,FALSE
+Google Cloud,Machine Learning on Google Cloud,4.5,9.5k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Removing Barriers to Change,4.9,373,Beginner , Course , 1 - 4 Weeks,FALSE
+Google Cloud,Google Cloud Digital Leader Training,4.8,3.7k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+SAS,SAS Programmer,4.8,3.3k,Beginner , Professional Certificate , 3 - 6 Months,TRUE
+Emory University,Management Consulting,4.8,546,Beginner , Specialization , 3 - 6 Months,FALSE
+Macquarie University,Excel Skills for Data Analytics and Visualization,4.8,4.7k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Vanderbilt University,MATLAB Programming for Engineers and Scientists,4.8,17.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Yale University,Managing Emotions in Times of Uncertainty & Stress,4.8,2.7k,Beginner , Course , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,Strategic Leadership and Management,4.8,8.8k,Beginner , Specialization , 3 - 6 Months,TRUE
+University of Alberta,Software Design and Architecture,4.6,3.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,"Effective Communication: Writing, Design, and Presentation",4.8,10.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+SkillUp EdTech,Scrum Master,4.7,73,Beginner , Specialization , 3 - 6 Months,FALSE
+EDHEC Business School,Investment Management with Python and Machine Learning,4.6,1.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Irvine",Academic English: Writing,4.7,22k,Beginner , Specialization , 3 - 6 Months,FALSE
+ISC2,(ISC)² Systems Security Certified Practitioner (SSCP),4.7,501,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Virginia,Agile Development,4.7,4.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+Meta,Introduction to Social Media Marketing,4.8,12.5k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Irvine",Introduction to Business,4.7,242,Beginner , Specialization , 1 - 3 Months,FALSE
+DeepLearning.AI,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.8,19k,Intermediate , Course , 1 - 4 Weeks,FALSE
+The University of Sydney,Introduction to Calculus,4.8,3.4k,Intermediate , Course , 1 - 3 Months,FALSE
+Microsoft,Microsoft Azure Data Scientist Associate (DP-100),4.4,284,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+University of California San Diego,Introduction to Discrete Mathematics for Computer Science,4.5,3.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Irvine",Project Launch,4.7,238,Beginner , Course , 1 - 3 Months,FALSE
+IBM,Machine Learning with Python,4.7,14.8k,Intermediate , Course , 1 - 3 Months,FALSE
+IBM,Databases and SQL for Data Science with Python,4.6,18.6k,Beginner , Course , 1 - 3 Months,FALSE
+The University of Chicago,Understanding the Brain: The Neurobiology of Everyday Life,4.9,2.7k,Beginner , Course , 1 - 3 Months,FALSE
+University System of Georgia,Six Sigma Yellow Belt,4.6,8.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of California San Diego,Drug Development Product Management,4.6,5.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Get Started with Python,4.8,650,Advanced , Course , 1 - 3 Months,FALSE
+ESSEC Business School,Diversity and inclusion in the workplace,4.7,906,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Illinois at Urbana-Champaign,Business Data Management and Communication,4.7,5.8k,Intermediate , Specialization , 3 - 6 Months,TRUE
+Google,Put It to Work: Prepare for Cybersecurity Jobs,4.9,952,Beginner , Course , 1 - 3 Months,FALSE
+IE Business School,Branding: The Creative Journey,4.6,1.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+Advancing Women in Tech,Real-World Product Management,4.5,795,Beginner , Specialization , 3 - 6 Months,TRUE
+University of Pennsylvania,Introduction to Financial Accounting,4.7,7.9k,Mixed , Course , 1 - 4 Weeks,FALSE
+Johns Hopkins University,Introduction to Systematic Review and Meta-Analysis,4.8,3.2k,Mixed , Course , 1 - 3 Months,FALSE
+Google,Google Project Management (DE),4.2,51,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+New York Institute of Finance,Risk Management,4.6,668,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of Maryland, College Park",Cybersecurity for Everyone,4.7,1.1k,Beginner , Course , 1 - 3 Months,FALSE
+Atlassian,Agile with Atlassian Jira,4.7,8.3k,Beginner , Course , 1 - 4 Weeks,FALSE
+DeepLearning.AI,Structuring Machine Learning Projects,4.8,49.5k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Geneva,Investment Management,4.7,7.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Google Data Analytics Capstone: Complete a Case Study,4.8,12.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM ,IBM Mainframe Developer,4.6,936,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+University of Pennsylvania,Introduction to Marketing,4.8,12.5k,Mixed , Course , 1 - 3 Months,FALSE
+University of Colorado Boulder,Software Architecture for Big Data,3.3,33,Advanced , Specialization , 1 - 3 Months,TRUE
+LearnQuest,ITIL 4 Exam Preparation,4.7,942,Mixed , Course , 1 - 3 Months,FALSE
+IBM,Introduction to Project Management,4.8,370,Beginner , Course , 1 - 3 Months,FALSE
+DeepLearning.AI,Convolutional Neural Networks,4.9,41.8k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Duke University,Medical Neuroscience,4.9,2.7k,Advanced , Course , 3 - 6 Months,FALSE
+University of Michigan,Web Design for Everybody: Basics of Web Development & Coding,4.7,34.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of London,Global Diplomacy – Diplomacy in the Modern World,4.7,4.6k,Mixed , Course , 1 - 3 Months,FALSE
+Google,Google IT Support,None,None,,None,None,FALSE
+Google,Conduct UX Research and Test Early Concepts,4.8,4.5k,Beginner , Course , 1 - 4 Weeks,FALSE
+"University of California, Davis",Data Visualization with Tableau,4.5,7.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,Introduction to Mathematical Thinking,4.8,2.6k,Intermediate , Course , 1 - 3 Months,FALSE
+Rutgers the State University of New Jersey,Global Procurement and Sourcing,4.7,1.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+University System of Georgia,Six Sigma Black Belt,4.5,453,Intermediate , Specialization , 3 - 6 Months,FALSE
+IBM ,IBM z/OS Mainframe Practitioner,4.7,1.1k,Intermediate , Professional Certificate , 1 - 3 Months,FALSE
+Microsoft,Preparing  Data for Analysis with Microsoft Excel,4.7,687,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Michigan,Python Basics,4.8,16.9k,Beginner , Course , 1 - 4 Weeks,FALSE
+"University of California, Irvine",Human Resources Analytics,4.6,1.4k,Mixed , Course , 1 - 4 Weeks,FALSE
+Google,Think Outside the Inbox: Email Marketing,4.8,1.4k,Beginner , Course , 1 - 3 Months,FALSE
+University of Virginia,Design Thinking,4.7,76,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Good with Words: Writing and Editing,4.7,2.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Google UX Design (DE),4.4,37,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Berklee,The Business of Music Production,4.8,5k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Washington,Dynamic Public Speaking,4.7,2.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Fundamentals of Finance,3.9,823,Beginner , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Robotics,4.4,3.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+Macquarie University,Excel Skills for Business: Essentials,4.9,47.6k,Beginner , Course , 1 - 3 Months,FALSE
+University at Buffalo,Blockchain,4.6,8.6k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Google,Google データアナリティクス,4.7,291,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Michigan,Anatomy,4.8,3.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,IBM Full Stack Software Developer,None,None,,None,None,FALSE
+Google Cloud,Machine Learning for Trading,3.9,1k,Intermediate , Specialization , 1 - 3 Months,FALSE
+Eindhoven University of Technology,"Ethics, Technology and Engineering",4.7,701,Beginner , Course , 1 - 3 Months,FALSE
+Multiple educators,Object Oriented Programming in Java,4.6,14.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,The Art of Visual Storytelling,4.7,33,Beginner , Specialization , 3 - 6 Months,FALSE
+Berklee,The DIY Musician,4.7,3.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+Salesforce,Salesforce Sales Development Representative,4.5,396,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Johns Hopkins University,Reducing Gun Violence in America: Evidence for Change,4.7,257,Beginner , Course , 1 - 3 Months,FALSE
+IBM,Microsoft Windows Defender and Firewall for Beginners,4.2,43,Beginner , Guided Project , Less Than 2 Hours,FALSE
+University of Colorado Boulder,Algorithms for Battery Management Systems,4.7,2.4k,Intermediate , Specialization , 3 - 6 Months,TRUE
+Vanderbilt University,Innovative Teaching with ChatGPT,4.6,41,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,Data Analysis with Python,4.7,17.3k,Beginner , Course , 1 - 3 Months,FALSE
+Stanford University,International Women's Health and Human Rights,4.9,1.5k,Beginner , Course , 3 - 6 Months,FALSE
+University of Washington,Business English Communication Skills,4.8,4.4k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Stanford University,Cryptography I,4.8,4.2k,Mixed , Course , 1 - 3 Months,FALSE
+"University of California, Santa Cruz",Bayesian Statistics,4.6,3.4k,Intermediate , Specialization , 3 - 6 Months,FALSE
+IBM,Data Visualization and Dashboards with Excel and Cognos,4.7,3.2k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Minnesota,Software Testing and Automation,4.3,769,Intermediate , Specialization , 3 - 6 Months,FALSE
+Amazon Web Services,AWS Cloud Practitioner Essentials,4.8,1.5k,Beginner , Course , 1 - 3 Months,FALSE
+Google,Google UX Design,4.7,62,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Colorado Boulder,Everyday Excel,4.7,3.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of California San Diego,Bioinformatics,4.3,1.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,"Food Sustainability, Mindful Eating, and Healthy Cooking",4.8,426,Beginner , Specialization , 1 - 3 Months,FALSE
+DeepLearning.AI,Calculus for Machine Learning and Data Science,4.8,394,Beginner , Course , 1 - 4 Weeks,FALSE
+Microsoft,Work Smarter with Microsoft Word,4.7,964,Beginner , Course , 1 - 3 Months,FALSE
+IBM,Data Science Methodology,4.6,19.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Google IT Support,4.5,166,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Colorado Boulder,Power Electronics,4.7,4k,Intermediate , Specialization , 3 - 6 Months,TRUE
+Michigan State University,Photography Basics and Beyond: From Smartphone to DSLR,4.7,6.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,Probabilistic Graphical Models,4.6,1.5k,Advanced , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Sequence Models,4.8,29.6k,Intermediate , Course , 1 - 4 Weeks,FALSE
+University of Illinois at Urbana-Champaign,Business Value and Project Management,4.7,7k,Beginner , Specialization , 3 - 6 Months,TRUE
+IBM,Advanced Data Science with IBM,4.3,3k,Advanced , Specialization , 3 - 6 Months,FALSE
+Google,Create High-Fidelity Designs and Prototypes in Figma,4.8,3.4k,Beginner , Course , 1 - 3 Months,FALSE
+Universitat Autònoma de Barcelona,Primeros Auxilios Psicológicos (PAP),4.8,9.9k,Mixed , Course , 1 - 3 Months,FALSE
+Lund University,AI & Law,4.8,380,Beginner , Course , 1 - 4 Weeks,FALSE
+Berklee,The Singer Songwriter,4.8,4.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Rice University,Business Statistics and Analysis,4.7,12k,Beginner , Specialization , 3 - 6 Months,FALSE
+Duke University,Decentralized Finance (DeFi): The Future of Finance,4.8,1.7k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Deep Teaching Solutions,Learning How to Learn: Powerful mental tools to help you master tough subjects,4.8,88k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Google UX Design (PT),4.9,2k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+HRCI,Talent Acquisition,4.8,216,Beginner , Course , 1 - 4 Weeks,FALSE
+Rutgers the State University of New Jersey,Supply Chain Analytics,4.6,1.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+MedCerts,Human Anatomy and Medical Terminology Fundamentals,4.7,36,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Customer Analytics,4.6,11.6k,Mixed , Course , 1 - 3 Months,FALSE
+Google Cloud,Creating Business Value with Data and Looker,4.7,1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,English for Career Development,4.8,14.7k,Mixed , Course , 1 - 3 Months,FALSE
+Meta,Introduction to Front-End Development,4.8,9k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Michigan,Web Applications for Everybody,4.7,8.9k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Duke University,MLOps | Machine Learning Operations,4,123,Advanced , Specialization , 3 - 6 Months,FALSE
+"University of California, Davis",SQL for Data Science,4.6,15.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Colorado Boulder,Data Science Foundations: Statistical Inference,4.4,179,Intermediate , Specialization , 3 - 6 Months,TRUE
+Google,Google サイバーセキュリティ,4.7,37,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Google Project Management (PT),4.9,1.9k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,Python Project for Data Science,4.5,3.7k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Berklee,Music Production,4.8,2.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Toronto,"GIS, Mapping, and Spatial Analysis",4.9,2.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+Universiteit Leiden,International Humanitarian Law in Theory and Practice,4.8,1.6k,Beginner , Course , 1 - 3 Months,FALSE
+"Parsons School of Design, The New School",Transforming the Fashion Business,4.7,423,Intermediate , Specialization , 1 - 3 Months,FALSE
+Johns Hopkins University,Biostatistics in Public Health,4.8,2.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+The University of Edinburgh,Animal Behaviour and Welfare,4.8,4.9k,Mixed , Course , 1 - 3 Months,FALSE
+University of Michigan,Foundational Finance for Strategic Decision Making,4.7,1.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+Imperial College London,Statistical Analysis with R for Public Health,4.7,1.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,Renewable Energy,4.8,708,Beginner , Specialization , 3 - 6 Months,FALSE
+Arizona State University,"TESOL Certificate, Part 2: Teach English Now!",4.9,3.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Illinois at Urbana-Champaign,Business Analytics,4.6,894,Beginner , Specialization , 3 - 6 Months,TRUE
+University of Illinois at Urbana-Champaign,Fundamentals of Accounting,4.6,1.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,User Experience Research and Design,4.7,2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Goodwill Industries International,Goodwill® Career Coach and Navigator,4.7,109,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Institute for the Future,Futures Thinking,4.8,1.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,Foundations of Data Structures and Algorithms,4.6,371,Advanced , Specialization , 3 - 6 Months,TRUE
+University of Colorado System,School Health for Children and Adolescents,4.8,2.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Yonsei University,First Step Korean,4.9,48.5k,Beginner , Course , 1 - 3 Months,FALSE
+ESSEC Business School,Réussir le Changement,4.5,1.9k,Mixed , Course , 1 - 3 Months,FALSE
+University of Toronto,Self-Driving Cars,4.7,3.3k,Advanced , Specialization , 3 - 6 Months,FALSE
+Google,Assess for Success: Marketing Analytics and Measurement,4.6,1k,Beginner , Course , 1 - 4 Weeks,FALSE
+Johns Hopkins University,Neuroscience and Neuroimaging,4.6,3.1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Duke University,Impact Measurement & Management for the SDGs,4.8,487,Mixed , Course , 1 - 3 Months,FALSE
+IBM,Introduction to Data Engineering,4.7,2.1k,Beginner , Course , 1 - 4 Weeks,FALSE
+Johns Hopkins University,Cancer Biology,4.8,9k,Beginner , Specialization , 3 - 6 Months,FALSE
+Johns Hopkins University,Design and Interpretation of Clinical Trials,4.7,4.2k,Mixed , Course , 1 - 3 Months,FALSE
+University of Virginia,Digital Product Management: Modern Fundamentals,4.7,5k,Beginner , Course , 1 - 4 Weeks,FALSE
+Copenhagen Business School,An Introduction to Consumer Neuroscience & Neuromarketing,4.7,3.1k,Beginner , Course , 1 - 3 Months,FALSE
+Dartmouth College,"Strategic Leadership: Impact, Change, and Decision-Making",4.8,326,Beginner , Specialization , 3 - 6 Months,FALSE
+California Institute of the Arts,Fundamentals of Graphic Design,4.8,16.8k,Beginner , Course , 1 - 3 Months,FALSE
+Johns Hopkins University,Healthcare IT Support,4.7,956,Beginner , Specialization , 3 - 6 Months,FALSE
+Wesleyan University,Social Psychology,4.7,4.7k,Beginner , Course , 1 - 3 Months,FALSE
+Google,Build Dynamic User Interfaces (UI) for Websites,4.8,2.8k,Beginner , Course , 1 - 3 Months,FALSE
+Coursera Project Network,Getting Started with Power BI Desktop,4.7,3.5k,Beginner , Guided Project , Less Than 2 Hours,FALSE
+University System of Georgia,Six Sigma Green Belt,4.7,4k,Intermediate , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Probability & Statistics for Machine Learning & Data Science,4.6,181,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Colorado Boulder,FPGA Design for Embedded Systems,4.5,1.6k,Intermediate , Specialization , 3 - 6 Months,TRUE
+Amazon Web Services,AWS Cloud Technical Essentials,4.8,4.3k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Davis",Market Research,4.6,1.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+West Virginia University,Forensic Accounting and Fraud Examination,4.7,5.4k,Mixed , Course , 1 - 3 Months,FALSE
+"University of California, Santa Cruz",Coding for Everyone: C and C++,4.5,8.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+Yale University,Overcoming Dyslexia,4.8,503,Beginner , Course , 1 - 3 Months,FALSE
+University at Buffalo,Digital Manufacturing & Design Technology,4.6,6.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Cape Town,Understanding Clinical Research: Behind the Statistics,4.8,3.3k,Beginner , Course , 1 - 3 Months,FALSE
+Interactive Brokers,Practical Guide to Trading,4.4,485,Beginner , Specialization , 3 - 6 Months,FALSE
+Meta,Meta AR Developer,4.6,84,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Johns Hopkins University,Health Informatics,4.4,746,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,PostgreSQL for Everybody,4.7,1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+IBM,Introduction to Software Engineering,4.7,581,Beginner , Course , 1 - 3 Months,FALSE
+The University of Sydney,Positive Psychiatry and Mental Health,4.8,3.4k,Mixed , Course , 1 - 3 Months,FALSE
+DeepLearning.AI,Machine Learning Data Lifecycle in Production,4.3,754,Advanced , Course , 1 - 4 Weeks,FALSE
+University of Michigan,Healthy and Sustainable Foods and Products,3.9,24,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of London,Corporate Strategy,4.8,1.9k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,Healthcare Law,4.7,411,Intermediate , Specialization , 3 - 6 Months,FALSE
+IBM,IBM & Darden Digital Strategy,None,None,Specialization,None,None,FALSE
+University of Illinois at Urbana-Champaign,Financial Management,4.7,6.4k,Intermediate , Specialization , 3 - 6 Months,TRUE
+University of Michigan,Digital Technologies and the Future of Manufacturing,4.6,199,Beginner , Specialization , 1 - 3 Months,FALSE
+Board Infinity ,Java FullStack Developer,4.4,71,Intermediate , Specialization , 1 - 3 Months,FALSE
+Google,The Path to Insights: Data Models and Pipelines,4.7,262,Advanced , Course , 1 - 4 Weeks,FALSE
+Georgia Institute of Technology,Write Professional Emails in English,4.8,16.7k,Mixed , Course , 1 - 3 Months,FALSE
+California Institute of the Arts,Game Design: Art and Concepts,4.7,3.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Convolutional Neural Networks in TensorFlow,4.7,7.9k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Microsoft,Work Smarter with Microsoft Excel,4.7,1.5k,Beginner , Course , 1 - 3 Months,FALSE
+University of Virginia,Managerial Accounting Fundamentals,4.8,721,Beginner , Course , 1 - 4 Weeks,FALSE
+"University of California, Davis",Learn Spanish: Basic Spanish Vocabulary,4.6,3.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Extended Reality for Everybody,4.6,423,Beginner , Specialization , 1 - 3 Months,FALSE
+Vanderbilt University,Data Management for Clinical Research,4.7,1.5k,Beginner , Course , 1 - 3 Months,FALSE
+Duke University,Data Analysis with R,4.7,7.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+Hebrew University of Jerusalem,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),4.9,3.5k,Mixed , Course , 1 - 3 Months,FALSE
+Duke University,Behavioral Finance,4.4,3.8k,Beginner , Course , 1 - 4 Weeks,FALSE
+Google Cloud,Customer Experiences with Contact Center AI - Dialogflow CX,4.4,219,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,"Introduction to Web Development with HTML, CSS, JavaScript",4.6,1.7k,Beginner , Course , 1 - 3 Months,FALSE
+Northwestern University,Organizational Leadership,4.7,4.5k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Toronto,Introduction to Psychology,4.9,4.9k,Mixed , Course , 1 - 3 Months,FALSE
+Autodesk,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,4.7,2.5k,Advanced , Course , 1 - 4 Weeks,FALSE
+Rice University,Investment and Portfolio Management,4.5,2.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Viral Marketing and How to Craft Contagious Content,4.8,5.1k,Mixed , Course , 1 - 4 Weeks,FALSE
+Google,"Aspectos básicos: Datos, datos, en todas partes",4.8,4.9k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Irvine",Project Planning,4.8,167,Beginner , Course , 1 - 3 Months,FALSE
+Google,"Make the Sale: Build, Launch, and Manage E-commerce Stores",4.8,909,Beginner , Course , 1 - 4 Weeks,FALSE
+Lund University,"AI, Business & the Future of Work",4.7,269,Beginner , Course , 1 - 4 Weeks,FALSE
+EDHEC Business School,Climate Change and Sustainable Investing,4.7,281,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Go Beyond the Numbers: Translate Data into Insights,4.7,310,Advanced , Course , 1 - 3 Months,FALSE
+Northwestern University,"Modern Robotics:  Mechanics, Planning, and Control",4.7,1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Johns Hopkins University,Epidemiology in Public Health Practice,4.7,4.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Introduction to Large Language Models,4.2,168,Beginner , Course , 1 - 4 Weeks,FALSE
+Duke University,Excel to MySQL: Analytic Techniques for Business,4.6,15.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Site Reliability Engineering: Measuring and Managing Reliability,4.5,861,Intermediate , Course , 1 - 3 Months,FALSE
+University of Michigan,Emotional Intelligence: Cultivating Immensely Human Interactions,4.7,240,Intermediate , Course , 1 - 4 Weeks,FALSE
+"University of California, Irvine",Learn English: Beginning Grammar,4.9,3k,Beginner , Specialization , 1 - 3 Months,FALSE
+Berklee,"Songwriting: Writing, Arranging, and Producing Music",4.8,2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Google Cloud Fundamentals: Core Infrastructure,4.7,47.4k,Beginner , Course , 1 - 3 Months,FALSE
+University of Colorado Boulder,Optical Engineering,4.4,329,Advanced , Specialization , 3 - 6 Months,TRUE
+University of Illinois at Urbana-Champaign,Value Chain Management,4.7,4.9k,Intermediate , Specialization , 3 - 6 Months,TRUE
+Duke University,Introductory Human Physiology,4.8,4.7k,Beginner , Course , 1 - 3 Months,FALSE
+University of Colorado System,Become an EMT,4.8,2.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+Knowledge Accelerators,Customer Service Fundamentals,4.8,1.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+Erasmus University Rotterdam,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",4.6,1.2k,Advanced , Course , 1 - 3 Months,FALSE
+University of Michigan,Instructional Methods in Health Professions Education,4.7,441,Intermediate , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Gamification,4.8,2.4k,Mixed , Course , 1 - 3 Months,FALSE
+Berklee,Music Education for Teachers,4.8,2.8k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Stanford University,Child Nutrition and Cooking,4.8,9.9k,Beginner , Course , 1 - 3 Months,FALSE
+Rice University,Medical Terminology,4.9,401,Beginner , Specialization , 3 - 6 Months,FALSE
+ISAE-SUPAERO,Fundamentals of Flight mechanics,4.7,345,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Using Public Policy for Social Change,5,6,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Google Digital Marketing & E-commerce,None,None,,None,None,FALSE
+INSEAD,Blockchain Revolution,4.7,2.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+Autodesk,Autodesk CAD/CAM/CAE for Mechanical Engineering,4.8,4.8k,Intermediate , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,TensorFlow: Data and Deployment,4.6,1.4k,Intermediate , Specialization , 3 - 6 Months,FALSE
+IBM,Exploratory Data Analysis for Machine Learning,4.6,1.4k,Intermediate , Course , 1 - 3 Months,FALSE
+Codio,Programming in C++: A Hands-on Introduction,4.6,921,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Introduction to Corporate Finance,4.6,5.8k,Mixed , Course , 1 - 4 Weeks,FALSE
+University of Colorado System,Agile Leadership,4.8,2.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,تحليلات البيانات من Google,4.8,162,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+New York University,Introduction to Cyber Security,4.7,3.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Google Data Analytics (DE),4.4,28,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+The Hong Kong University of Science and Technology,Python and Statistics for Financial Analysis,4.4,3.9k,Intermediate , Course , 1 - 4 Weeks,FALSE
+The University of Edinburgh,Introduction to Philosophy,4.7,9k,Mixed , Course , 3 - 6 Months,FALSE
+DeepLearning.AI,Natural Language Processing with Probabilistic Models,4.7,1.6k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Columbia University,Economics of Money and Banking,4.9,1.5k,Mixed , Course , 3 - 6 Months,FALSE
+Google,Design a User Experience for Social Good & Prepare for Jobs,4.8,2.9k,Beginner , Course , 1 - 3 Months,FALSE
+Google,Fundamentos de la gestión de proyectos,4.9,4.8k,Beginner , Course , 1 - 4 Weeks,FALSE
+DeepLearning.AI,"Sequences, Time Series and Prediction",4.7,4.9k,Intermediate , Course , 1 - 4 Weeks,FALSE
+University of London,The Manager's Toolkit: A Practical Guide to Managing People at Work,4.7,3.6k,Mixed , Course , 1 - 3 Months,FALSE
+University System of Georgia,Managing Cybersecurity,4.8,1k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Python Data Structures,4.9,94k,Beginner , Course , 1 - 3 Months,FALSE
+Cisco Learning and Certifications,Cybersecurity Operations Fundamentals,4.8,123,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Build Basic Generative Adversarial Networks (GANs),4.7,1.8k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Microsoft,Microsoft Azure Data Fundamentals DP-900 Exam Prep,4.7,549,Beginner , Specialization , 3 - 6 Months,FALSE
+ESSEC Business School,Reporting extra-financier et stratégie RSE,4.7,370,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,Introduction to DevOps,4.8,2.1k,Beginner , Course , 1 - 3 Months,FALSE
+Yonsei University,International Marketing & Cross Industry Growth,4.7,2.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Computational Thinking for Problem Solving,4.7,1.3k,Beginner , Course , 1 - 4 Weeks,FALSE
+Johns Hopkins University,Algebra: Elementary to Advanced,4.8,500,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Culture-Driven Team Building,4.6,894,Beginner , Specialization , 3 - 6 Months,FALSE
+Duke University,Python Programming Fundamentals,4.4,7,Beginner , Course , 1 - 4 Weeks,FALSE
+Berklee,Music Business,4.8,3.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+École Polytechnique Fédérale de Lausanne,Functional Programming in Scala,4.7,10.6k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Organizational Change and Culture for Adopting Google Cloud,4.7,3.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Davis",Professional Skills for the Workplace,4.8,2.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+Rice University,Fundamentals of Immunology,4.7,2.1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,Introduction to Public Relations and the Media,4.7,360,Beginner , Specialization , 3 - 6 Months,FALSE
+The Hong Kong University of Science and Technology,"Information Systems Auditing, Controls and Assurance",4.7,3.2k,Beginner , Course , 1 - 4 Weeks,FALSE
+SAP,SAP Professional Fundamentals,4.7,366,Beginner , Course , 1 - 3 Months,FALSE
+University of Michigan,"Python Functions, Files, and Dictionaries",4.9,5.1k,Beginner , Course , 1 - 3 Months,FALSE
+University of Colorado Boulder,Finance for Technical Managers,4.7,87,Beginner , Specialization , 3 - 6 Months,FALSE
+Duke University,Electric Industry Operations and Markets,4.8,1.2k,Beginner , Course , 1 - 4 Weeks,FALSE
+ESSEC Business School,"Hotel Management: Distribution, Revenue and Demand Management",4.6,2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Yale University,The Science of Well-Being for Teens,4.9,367,Beginner , Course , 1 - 3 Months,FALSE
+Google,Google Data Analytics,None,None,,None,None,FALSE
+Duke University,Entrepreneurial Finance: Strategy and Innovation,4.5,1.3k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Wesleyan University,Abnormal Psychology,4.8,433,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Davis",Fundraising and Development,4.6,308,Beginner , Specialization , 3 - 6 Months,FALSE
+Rice University,Finance for Non-Finance Professionals,4.8,2.6k,Beginner , Course , 1 - 3 Months,FALSE
+Johns Hopkins University,GPU Programming,2.8,66,Intermediate , Specialization , 3 - 6 Months,FALSE
+École Polytechnique,Étudier en France: French Intermediate course B1-B2,4.8,4.6k,Intermediate , Course , 1 - 3 Months,FALSE
+Rice University,Engineering Project Management,4.7,4.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+UiPath,Robotic Process Automation (RPA),4.7,321,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,ESG Risks and Opportunities,4.6,524,Beginner , Course , 1 - 4 Weeks,FALSE
+Technical University of Denmark (DTU),Wind Energy,4.7,7.1k,Mixed , Course , 3 - 6 Months,FALSE
+DeepLearning.AI,Natural Language Processing in TensorFlow,4.6,6.3k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Columbia University,Construction Project Management,4.8,6.3k,Beginner , Course , 1 - 3 Months,FALSE
+Duke University,Machine Learning Foundations for Product Managers,4.6,261,Beginner , Course , 1 - 3 Months,FALSE
+Erasmus University Rotterdam,Principles of Sustainable Finance,4.7,1.5k,Intermediate , Course , 1 - 3 Months,FALSE
+University of Virginia,Marketing Analytics,4.7,6.3k,Beginner , Course , 1 - 3 Months,FALSE
+Fractal Analytics,Fractal Data Science,3.9,19,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Meta,Programming with JavaScript,4.7,3.1k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Davis",Coaching Skills for Managers,4.8,2.5k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Erasmus University Rotterdam,Driving business towards the Sustainable Development Goals,4.8,1.2k,Beginner , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Positive Psychology: Martin E. P. Seligman’s Visionary Science,4.9,5.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Virginia,Financial Accounting Fundamentals,4.8,2.5k,Beginner , Course , 1 - 3 Months,FALSE
+IE Business School,Marketing Strategy,4.5,5.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,Science of Exercise,4.8,4.4k,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,Data Visualization with Python,4.5,11.3k,Intermediate , Course , 1 - 3 Months,FALSE
+Berklee,Electronic Music Production,4.8,2.2k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Dartmouth College,C Programming with Linux,4.6,258,Beginner , Specialization , 3 - 6 Months,FALSE
+EC-Council,Cybersecurity Attack and Defense Fundamentals,4.6,279,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Sports Performance Analytics,4.5,206,Intermediate , Specialization , 3 - 6 Months,FALSE
+Meta,Marketing en redes sociales de Meta,4.9,885,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Microsoft,Introduction to Computers and Operating Systems and Security,4.8,441,Beginner , Course , 1 - 4 Weeks,FALSE
+Universiteit Leiden,Miracles of Human Language: An Introduction to Linguistics,4.7,2.3k,Beginner , Course , 1 - 3 Months,FALSE
+Duke University,Introductory C Programming,4.6,7.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,Antibiotic Stewardship,4.6,461,Advanced , Course , 1 - 3 Months,FALSE
+Politecnico di Milano,Artificial Intelligence: an Overview,4.5,185,Beginner , Specialization , 3 - 6 Months,FALSE
+Meta,Social Media Management,4.9,4.5k,Beginner , Course , 1 - 4 Weeks,FALSE
+"University of California, Irvine",The Pronunciation of American English,4.8,963,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,AI Applications in Marketing and Finance,4.7,147,Mixed , Course , 1 - 4 Weeks,FALSE
+IIMA - IIM Ahmedabad,Pre-MBA Statistics,4.5,143,Beginner , Course , 1 - 3 Months,FALSE
+Duke University,Dog Emotion and Cognition,4.7,4.5k,Mixed , Course , 1 - 3 Months,FALSE
+University of Geneva,Vivre avec le TDAH à travers les âges,4.9,70,Beginner , Course , 1 - 3 Months,FALSE
+IBM,Hands-on Introduction to Linux Commands and Shell Scripting,4.7,933,Beginner , Course , 1 - 4 Weeks,FALSE
+"University of California, Irvine",An Introduction to Programming the Internet of Things (IOT),4.7,19.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Salesforce,Sales and CRM Overview,4.5,826,Beginner , Course , 1 - 4 Weeks,FALSE
+Microsoft,Harnessing the Power of Data with Power BI,4.5,201,Beginner , Course , 1 - 4 Weeks,FALSE
+University of London,Finding Your Professional Voice: Confidence & Impact,4.8,237,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Fundamentos de la ciberseguridad,4.9,887,Beginner , Course , 1 - 4 Weeks,FALSE
+Imperial College London,Creative Thinking: Techniques and Tools for Success,4.7,4k,Beginner , Course , 1 - 3 Months,FALSE
+University of Michigan,Leading Diverse Teams & Organizations,4.8,326,Beginner , Course , 1 - 4 Weeks,FALSE
+"University of California, Irvine",Learn English: Intermediate Grammar,4.8,5.1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Geneva,International Organizations Management,4.8,1.7k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Irvine",Programming with Google Go,4.6,2.7k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Microeconomics: The Power of Markets,4.7,1.4k,Mixed , Course , 1 - 3 Months,FALSE
+Rice University,Fundamentals of Computing,4.8,4k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,Getting Started with Git and GitHub,4.7,673,Beginner , Course , 1 - 4 Weeks,FALSE
+Intuit,Assets in Accounting,4.4,836,Beginner , Course , 1 - 4 Weeks,FALSE
+DeepLearning.AI,AI and Public Health,4.8,117,Beginner , Course , 1 - 4 Weeks,FALSE
+Universidad Nacional Autónoma de México,IA generativa en el aula,4.9,21,Beginner , Course , 1 - 4 Weeks,FALSE
+Georgia Institute of Technology,Introduction to User Experience Design,4.5,8k,Beginner , Course , 1 - 3 Months,FALSE
+Yale University,Moral Foundations of Politics,4.9,5.5k,Mixed , Course , 1 - 3 Months,FALSE
+Google,Satisfaction Guaranteed: Develop Customer Loyalty Online,4.8,2.1k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,Business Strategies for A Better World,4.7,1.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,AI for Medical Diagnosis,4.7,1.9k,Intermediate , Course , 1 - 4 Weeks,FALSE
+University of Colorado Boulder,Advanced Embedded Linux Development,4,49,Intermediate , Specialization , 1 - 3 Months,TRUE
+Michigan State University,Game Design and Development with Unity 2020,4.7,509,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,Embedding Sensors and Motors,4.6,2.6k,Intermediate , Specialization , 3 - 6 Months,TRUE
+Rice University,"Introduction to Biology: Ecology, Evolution, & Biodiversity",4.9,79,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,The Power of Statistics,4.8,287,Advanced , Course , 1 - 3 Months,FALSE
+University of Colorado System,C# Programming for Unity Game Development,4.6,2.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Advanced Machine Learning on Google Cloud,4.5,1.4k,Advanced , Specialization , 3 - 6 Months,FALSE
+Stanford University,Palliative Care Always,4.6,89,Beginner , Specialization , 3 - 6 Months,FALSE
+Georgia Institute of Technology,Supply Chain Principles,4.6,2k,Mixed , Course , 1 - 3 Months,FALSE
+University of London,Understanding Research Methods,4.6,7.1k,Mixed , Course , 1 - 4 Weeks,FALSE
+Macquarie University,Leading: Human Resource Management and Leadership,4.8,3.3k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Duke University,Oil & Gas Industry Operations and Markets,4.8,5.7k,Mixed , Course , 1 - 4 Weeks,FALSE
+Imperial College London,Mathematics for Machine Learning: Linear Algebra,4.7,11.8k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Irvine",IELTS Preparation,4.6,1.5k,Beginner , Specialization , 1 - 3 Months,FALSE
+Google Cloud,Developing APIs with Google Cloud's Apigee API Platform,4.7,2.8k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Universiteit Leiden,International Law In Action: Investigating and Prosecuting International Crimes,4.8,612,Mixed , Course , 1 - 3 Months,FALSE
+Berklee,How to Play Guitar,4.7,2.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,Databases for Data Scientists,4.7,647,Beginner , Specialization , 3 - 6 Months,TRUE
+University of Pennsylvania,Introduction to Python Programming,4.5,998,Beginner , Course , 1 - 4 Weeks,FALSE
+Universidad Nacional Autónoma de México,Contabilidad para no contadores,4.8,8.6k,Beginner , Course , 1 - 3 Months,FALSE
+University of Colorado Boulder,Introduction to Embedded Systems Software and Development Environments,4.5,593,Intermediate , Course , 1 - 4 Weeks,FALSE
+Rice University,Spanish for Successful Communication in Healthcare Settings,4.8,273,Intermediate , Course , 1 - 3 Months,FALSE
+Università Bocconi,International Leadership and Organizational Behavior,4.8,3.1k,Mixed , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Introduction to Spreadsheets and Models,4.2,3.7k,Mixed , Course , 1 - 4 Weeks,FALSE
+University of Colorado Boulder,"Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising",4.5,650,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Improving Communication Skills,4.7,1.9k,Beginner , Course , 1 - 4 Weeks,FALSE
+Digital Marketing Institute,Social Media Marketing in Practice,4.5,316,Beginner , Specialization , 3 - 6 Months,FALSE
+IE Business School,Marketing Mix Implementation,4.7,5.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Georgia Institute of Technology,Introduction to Electronics,4.7,2.4k,Mixed , Course , 1 - 3 Months,FALSE
+University of Manchester   ,Industrial Biotechnology,4.7,3.1k,Beginner , Course , 1 - 3 Months,FALSE
+SAS,SAS Visual Business Analytics,4.7,1.1k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Fundamentos del marketing digital y comercio electrónico,4.9,595,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Minnesota,Information​ ​Systems,4.8,1.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,Fundamentals of Machine Learning for Healthcare,4.8,352,Beginner , Course , 1 - 3 Months,FALSE
+University of Toronto,Learn to Program: The Fundamentals,4.7,6.3k,Beginner , Course , 1 - 3 Months,FALSE
+Università Bocconi,Food & Beverage Management,4.8,4.3k,Mixed , Course , 1 - 3 Months,FALSE
+DeepLearning.AI,AI For Everyone （すべての人のためのAIリテラシー講座）,4.8,245,Beginner , Course , 1 - 3 Months,FALSE
+University of London,Introduction to English Common Law,4.8,1.7k,Beginner , Course , 1 - 3 Months,FALSE
+Red Hat,Linux and Private Cloud Administration on IBM Power Systems,4.8,930,Intermediate , Specialization , 3 - 6 Months,FALSE
+Google,Google Cybersecurity,None,None,,None,None,FALSE
+Google,Suporte em TI do Google,4.9,6.1k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+University of Colorado Boulder,Project Management: Foundations and Initiation,4.8,300,Beginner , Course , 1 - 4 Weeks,FALSE
+Universiteit Leiden,Terrorism and Counterterrorism: Comparing Theory and Practice,4.8,3.1k,Beginner , Course , 1 - 3 Months,FALSE
+Georgia Institute of Technology,Fundamentals of Engineering Exam Review,4.7,602,Mixed , Course , 1 - 3 Months,FALSE
+London Business School,Future Ready Company,None,None,Intermediate , Specialization , 3 - 6 Months,FALSE
+Tally Education,Tally Bookkeeper,4.5,94,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Google,Using Python to Interact with the Operating System,4.7,5.9k,Beginner , Course , 1 - 3 Months,FALSE
+University of Minnesota,Integrative Health and Medicine,4.8,1.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Universiteit Leiden,International Law in Action: the Arbitration of International Disputes,4.8,1.1k,Mixed , Course , 1 - 3 Months,FALSE
+IBM,DataOps Methodology,4.7,38,Beginner , Course , 1 - 3 Months,FALSE
+University of London,Introduction to Computer Science and Programming,4.2,1.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,"Cybersecurity Roles, Processes & Operating System Security",4.6,5.2k,Beginner , Course , 1 - 3 Months,FALSE
+Northwestern University,Sports Marketing,4.7,1.2k,Intermediate , Course , 1 - 3 Months,FALSE
+Meta,Version Control,4.6,2.5k,Beginner , Course , 1 - 4 Weeks,FALSE
+Michigan State University,Become a Journalist: Report the News!,4.7,1.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,Introduction to Deep Learning & Neural Networks with Keras,4.7,1.4k,Intermediate , Course , 1 - 3 Months,FALSE
+MedCerts,Professionalism in Allied Health,4.8,97,Beginner , Course , 1 - 3 Months,FALSE
+Duke University,"Python, Bash and SQL Essentials for Data Engineering",4.5,298,Beginner , Specialization , 3 - 6 Months,FALSE
+Vanderbilt University,Introduction to Programming with MATLAB,4.8,17.3k,Beginner , Course , 1 - 3 Months,FALSE
+Stanford University,Introduction to Clinical Data,4.6,250,Beginner , Course , 1 - 3 Months,FALSE
+Yale University,American Contract Law I,4.9,856,Beginner , Course , 1 - 3 Months,FALSE
+University of Michigan,Data Collection and Processing with Python,4.7,3.8k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Coursera Project Network,Wireshark for Beginners: Capture Packets,4.8,46,Beginner , Guided Project , Less Than 2 Hours,FALSE
+University of Alberta,Fundamentals of Reinforcement Learning,4.8,2.7k,Intermediate , Course , 1 - 3 Months,FALSE
+Copenhagen Business School,Strategic Management and Innovation,4.7,4.8k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Davis",Computational Social Science,4.6,914,Beginner , Specialization , 3 - 6 Months,FALSE
+CompTIA,CompTIA a+_ cyber,4.5,11,Beginner , Specialization , 1 - 3 Months,FALSE
+Google,Google Project Management:,None,None,,None,None,FALSE
+University of Colorado Boulder,Advanced Business Analytics,4.6,5k,Intermediate , Specialization , 3 - 6 Months,FALSE
+"University of California, Davis",Fundamentals of GIS,4.8,5.4k,Beginner , Course , 1 - 4 Weeks,FALSE
+IE Business School,Making Architecture,4.8,1.3k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Geneva,Développement psychologique de l'enfant,4.9,641,Beginner , Course , 1 - 3 Months,FALSE
+DeepLearning.AI,Natural Language Processing with Attention Models,4.4,931,Intermediate , Course , 1 - 4 Weeks,FALSE
+University of Virginia,How Things Work: An Introduction to Physics,4.8,2.8k,Intermediate , Course , 1 - 3 Months,FALSE
+Google,Aspectos básicos del diseño de la experiencia del usuario,4.9,2.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Illinois at Urbana-Champaign,Object-Oriented Data Structures in C++,4.7,2.9k,Intermediate , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,Entrepreneurship 1: Developing the Opportunity,4.8,4.1k,Mixed , Course , 1 - 3 Months,FALSE
+Case Western Reserve University,Inspired Leadership,4.7,2.3k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Macquarie University,Excel Skills for Business: Intermediate I,4.9,16.5k,Intermediate , Course , 1 - 3 Months,FALSE
+Google Cloud,Digital Transformation Using AI/ML with Google Cloud,4.7,6.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Stanford University,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",4.8,5.1k,Intermediate , Course , 1 - 4 Weeks,FALSE
+West Virginia University,Sales Operations/Management,4.5,342,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of Maryland, College Park",Cybersecurity,4.6,5.3k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Università Bocconi,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,4.6,752,Mixed , Course , 1 - 3 Months,FALSE
+SoFi,The Fundamentals of Personal Finance,4.6,221,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Data Analytics in the Public Sector with R,4.7,36,Intermediate , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Machine Learning Modeling Pipelines in Production,4.3,376,Advanced , Course , 1 - 3 Months,FALSE
+Columbia University,First Principles of Computer Vision,4.7,144,Beginner , Specialization , 3 - 6 Months,FALSE
+ESSEC Business School,"Negotiation, Mediation and Conflict Resolution",4.7,2k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,Introduction to Agile Development and Scrum,4.9,1.4k,Beginner , Course , 1 - 4 Weeks,FALSE
+The University of Edinburgh,Fundamentals of Music Theory,4.5,1.7k,Beginner , Course , 1 - 3 Months,FALSE
+Ludwig-Maximilians-Universität München (LMU),Competitive Strategy and Organization Design,4.7,3.6k,Intermediate , Specialization , 3 - 6 Months,FALSE
+PwC India,PwC GST Taxation Executive,4.6,52,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+SkillUp EdTech,"Project Management Foundations, Initiation, and Planning",4.7,78,Beginner , Course , 1 - 3 Months,FALSE
+Google Cloud,Google Cloud Big Data and Machine Learning Fundamentals,4.7,15.8k,Beginner , Course , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,Corporate & Commercial Law I: Contracts & Employment Law,4.8,1.1k,Intermediate , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Financial Acumen for Non-Financial Managers,4.5,888,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Illinois at Urbana-Champaign,Introduction to Finance: The Basics,4.7,305,Beginner , Course , 1 - 3 Months,FALSE
+LearnQuest,Core Java,4.6,2.1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+CompTIA,CompTIA a+_ network,4.8,10,Beginner , Specialization , 1 - 3 Months,FALSE
+University of Florida,Healing with the Arts,4.6,866,Mixed , Course , 1 - 3 Months,FALSE
+DeepLearning.AI,Deploying Machine Learning Models in Production,4.5,288,Advanced , Course , 1 - 4 Weeks,FALSE
+EIT Digital ,Security and Privacy for Big Data - Part 1,4.7,573,Beginner , Course , 1 - 4 Weeks,FALSE
+Microsoft,Microsoft Azure AI Fundamentals AI-900 Exam Prep,4.6,511,Beginner , Specialization , 3 - 6 Months,FALSE
+Coursera Project Network,Excel for Beginners: Introduction to Spreadsheets,4.6,57,Beginner , Guided Project , Less Than 2 Hours,FALSE
+New York University,Machine Learning and Reinforcement Learning in Finance,3.7,788,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of London,Object Oriented Programming,4.7,59,Intermediate , Specialization , 1 - 3 Months,FALSE
+University of Pennsylvania,Nuts and Bolts of U.S. Immigration Law,4.9,95,Intermediate , Course , 1 - 4 Weeks,FALSE
+LearnQuest,Learning Linux for LFCA Certification,4.5,819,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Customer Experiences with Contact Center AI - Dialogflow ES,4.5,205,Intermediate , Specialization , 3 - 6 Months,FALSE
+NVIDIA,Introduction to AI in the Data Center,4.7,28,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,"Decisions, Decisions: Dashboards and Reports",4.8,358,Advanced , Course , 1 - 3 Months,FALSE
+Vanderbilt University,Generative AI Primer,4.7,30,Beginner , Course , 1 - 4 Weeks,FALSE
+Rice University,"Organizational Leadership in Diversity, Equity & Inclusion",4.8,187,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,Omnichannel Retail Strategy,4.7,289,Beginner , Specialization , 1 - 3 Months,FALSE
+University of Colorado Boulder,Excel/VBA for Creative Problem Solving,4.8,4.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+Knowledge Accelerators,From Excel to Power BI,4.4,149,Beginner , Course , 1 - 4 Weeks,FALSE
+Georgia Institute of Technology,"Speak English Professionally: In Person, Online & On the Phone",4.7,9.9k,Mixed , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Vital Signs: Understanding What the Body Is Telling Us,4.8,6k,Mixed , Course , 1 - 3 Months,FALSE
+Yale University,Visualizing the Living Body: Diagnostic Imaging,4.8,171,Intermediate , Course , 1 - 3 Months,FALSE
+"University of California, Irvine",TOEFL Preparation,4.5,520,Beginner , Specialization , 1 - 3 Months,FALSE
+"University of California, Davis",Equine Welfare and Management,4.9,343,Beginner , Course , 1 - 3 Months,FALSE
+Stanford University,Understanding Einstein: The Special Theory of Relativity,4.9,2.9k,Beginner , Course , 1 - 3 Months,FALSE
+Arizona State University,Design of Experiments,4.7,290,Beginner , Specialization , 3 - 6 Months,FALSE
+DeepLearning.AI,Analyze Datasets and Train ML Models using AutoML,4.5,420,Advanced , Course , 1 - 4 Weeks,FALSE
+IBM,Introduction to Computer Vision and Image Processing,4.3,1k,Beginner , Course , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,Auditing I: Conceptual Foundations of Auditing,4.7,517,Intermediate , Course , 1 - 3 Months,FALSE
+Lund University,European Business Law,4.8,1.7k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of London,International Business Essentials,4.6,1.8k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Duke University,Introduction to Machine Learning,4.7,3.4k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Michigan State University,Write Your First Novel,4.3,285,Beginner , Course , 3 - 6 Months,FALSE
+Rutgers the State University of New Jersey,Supply Chain Logistics,4.8,10.2k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of London,Business Sustainability in the Circular Economy,4.5,164,Beginner , Course , 1 - 4 Weeks,FALSE
+Board Infinity ,.NET FullStack Developer,4.3,60,Intermediate , Specialization , 1 - 3 Months,FALSE
+The George Washington University,Essentials in Clinical Simulations Across the Health Professions,4.8,967,Intermediate , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,English for Business and Entrepreneurship,4.8,4.6k,Beginner , Course , 1 - 3 Months,FALSE
+Yale University,Health Behavior Change: From Evidence to Action,4.8,350,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Davis",Introduction to Web Development,4.7,3.6k,Beginner , Course , 1 - 3 Months,FALSE
+Databricks,Data Science with Databricks for Data Analysts,4.5,527,Intermediate , Specialization , 3 - 6 Months,FALSE
+Johns Hopkins University,Linear Algebra from Elementary to Advanced,None,None,Beginner , Specialization , 3 - 6 Months,FALSE
+Wesleyan University,Memoir and Personal Essay: Write About Yourself,4.4,397,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Using Python to Access Web Data,4.8,43.7k,Beginner , Course , 1 - 3 Months,FALSE
+Coursera Project Network,Tableau Public for Project Management and Beyond,None,None,,None,None,FALSE
+Erasmus University Rotterdam,Innovation Management,4.7,1.9k,Beginner , Course , 1 - 3 Months,FALSE
+University of London,Managing the Company of the Future,4.8,3.4k,Mixed , Course , 1 - 3 Months,FALSE
+Peking University,Learn Chinese: HSK Test Preparation,4.8,3.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+Imperial College London,Foundations of Public Health Practice,4.8,513,Beginner , Specialization , 3 - 6 Months,FALSE
+Google,Marketing digital e e-commerce do Google,4.9,89,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Berklee,Developing Your Musicianship,4.8,1.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Alberta,Dino 101: Dinosaur Paleobiology,4.9,3.3k,Beginner , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,What is Compliance?,4.8,1.1k,Mixed , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,AI Strategy and Governance,4.8,71,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,AI Applications in People Management,4.7,77,Mixed , Course , 1 - 4 Weeks,FALSE
+Duke University,Rust Fundamentals,None,None,Beginner , Course , 1 - 4 Weeks,FALSE
+University of California San Diego,Interaction Design,4.5,3.9k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Università Bocconi,Arts and Heritage Management,4.8,1.3k,Mixed , Course , 1 - 3 Months,FALSE
+Microsoft,"Extract, Transform and Load Data in Power BI",4.4,111,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Colorado Boulder,Semiconductor Devices,4.4,521,Advanced , Specialization , 1 - 3 Months,TRUE
+Google Cloud,Introduction to Responsible AI,4.5,50,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Illinois at Urbana-Champaign,An Introduction to Accessibility and Inclusive Design,4.7,187,Beginner , Course , 1 - 3 Months,FALSE
+Board Infinity ,ASP.NET for Experienced Developers,4,106,Intermediate , Specialization , 1 - 3 Months,FALSE
+Deep Teaching Solutions,Uncommon Sense Teaching,4.9,612,Beginner , Specialization , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,"Introduction to Financial Analysis - The ""Why?""",4.7,111,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Michigan,Statistics with Python,4.6,3.1k,Beginner , Specialization , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,Financial Reporting,4.7,793,Intermediate , Specialization , 3 - 6 Months,TRUE
+Lund University,Circular Economy - Sustainable Materials Management,4.8,1.8k,Beginner , Course , 1 - 3 Months,FALSE
+University of Geneva,Troubles du spectre de l'autisme : diagnostic,4.9,696,Intermediate , Course , 1 - 3 Months,FALSE
+Imperial College London,Digital Health,4.5,208,Intermediate , Specialization , 1 - 3 Months,FALSE
+Commonwealth Education Trust,Foundations of Teaching for Learning: Curriculum,4.6,372,Mixed , Course , 1 - 3 Months,FALSE
+University of Washington,Machine Learning,4.6,16k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Peking University,Chinese for Beginners,4.8,18.8k,Mixed , Course , 1 - 3 Months,FALSE
+EIT Digital ,Security and Privacy for Big Data - Part 2,4.7,237,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,An Introduction to American Law,4.8,4.7k,Beginner , Course , 1 - 3 Months,FALSE
+Yale University,Essentials of Global Health,4.8,1.9k,Mixed , Course , 1 - 3 Months,FALSE
+IBM,Developing Front-End Apps with React,4.3,294,Intermediate , Course , 1 - 4 Weeks,FALSE
+The University of Edinburgh,Learning for a Sustainable Future,4.7,46,Beginner , Course , 1 - 3 Months,FALSE
+IBM,IBM Data Science,None,None,,None,None,FALSE
+Digital Marketing Institute,Digital Marketing Strategy and Planning,4.6,346,Beginner , Specialization , 1 - 3 Months,FALSE
+Michigan State University,Reign of Pain,None,None,Mixed , Course , 1 - 3 Months,FALSE
+University of New Mexico,Curanderismo: Traditional Healing Using Plants,4.7,211,Beginner , Course , 1 - 3 Months,FALSE
+Technical University of Denmark (DTU),Whole genome sequencing of bacterial genomes - tools and applications,4.6,1.4k,Beginner , Course , 1 - 3 Months,FALSE
+University of California San Diego,Object Oriented Java Programming: Data Structures and Beyond,4.7,7.1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Python Classes and Inheritance,4.7,3.5k,Intermediate , Course , 1 - 4 Weeks,FALSE
+University of Arizona,Astronomy: Exploring Time and Space,4.8,3.5k,Beginner , Course , 1 - 3 Months,FALSE
+Microsoft,Microsoft Azure Security Engineer Associate (AZ-500),4.8,11,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+American Museum of Natural History,Marine Biology,4.7,83,Beginner , Course , 1 - 3 Months,FALSE
+University of Colorado System,Inclusive Leadership: The Power of Workplace Diversity,4.9,1.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+Emory University,Qualitative Research Design and Methods for Public Health,4.7,165,Beginner , Specialization , 3 - 6 Months,FALSE
+Wesleyan University,Suicide Prevention,4.6,159,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Regression Analysis: Simplify Complex Data Relationships,4.7,181,Advanced , Course , 1 - 3 Months,FALSE
+Utrecht University,Understanding child development: from synapse to society,4.6,259,Beginner , Course , 1 - 3 Months,FALSE
+Yale University,Narrative Economics,4.8,341,Beginner , Course , 1 - 4 Weeks,FALSE
+Copenhagen Business School,Digital Transformation in Financial Services,4.4,1.9k,Beginner , Specialization , 3 - 6 Months,FALSE
+Johns Hopkins University,Data Literacy,4.6,206,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,Building AI Powered Chatbots Without Programming,4.8,2.5k,Beginner , Course , 1 - 3 Months,FALSE
+Google Cloud,From Data to Insights with Google Cloud,4.6,4.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+Johns Hopkins University,Patient Safety,4.8,1.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Illinois at Urbana-Champaign,Microeconomics Principles,4.8,2.9k,Beginner , Course , 1 - 3 Months,FALSE
+Pontificia Universidad Católica de Chile,Introducción a la programación en Python I: Aprendiendo a programar con Python,4.4,4.2k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Davis",Introduction to Google SEO,4.6,9.7k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Glasgow ,Diversity and Inclusion in Education,4.8,178,Intermediate , Course , 1 - 4 Weeks,FALSE
+Novartis,Introduction to Good Clinical Practice,4.6,40,Beginner , Course , 1 - 4 Weeks,FALSE
+Microsoft,Microsoft Power Platform Fundamentals,4.2,101,Beginner , Course , 1 - 3 Months,FALSE
+IBM,Introduction to Technical Support,4.8,598,Beginner , Course , 1 - 3 Months,FALSE
+Imperial College London,Immunology: The Immune System and its Failures,4.7,123,Intermediate , Specialization , 3 - 6 Months,FALSE
+Indian School of Business,Trading Strategies in Emerging Markets,4.2,2.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,IBM Data Analyst,None,None,,None,None,FALSE
+IBM,Deep Neural Networks with PyTorch,4.4,1.5k,Intermediate , Course , 1 - 3 Months,FALSE
+Google Cloud,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate 日本語版,4.4,295,Intermediate , Professional Certificate , 3 - 6 Months,FALSE
+Google Cloud,"Data Engineering, Big Data and ML on Google Cloud 日本語版",4.4,288,Intermediate , Specialization , 3 - 6 Months,FALSE
+Johns Hopkins University,Executive Data Science,4.5,10.8k,Beginner , Specialization , 1 - 3 Months,FALSE
+University of Michigan,Social Work Practice: Advocating Social Justice and Change,4.8,347,Beginner , Course , 1 - 4 Weeks,FALSE
+IESE Business School,Accounting: Principles of Financial Accounting,4.8,2.9k,Beginner , Course , 1 - 4 Weeks,FALSE
+HubSpot Academy,Sales Training for High Performing Teams,4.7,956,Beginner , Specialization , 1 - 3 Months,FALSE
+DeepLearning.AI,Natural Language Processing with Sequence Models,4.5,1.1k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Google,Google IT Support (Deutsch),4.7,187,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+The State University of New York,Solar Energy Basics,4.8,2.4k,Beginner , Course , 1 - 3 Months,FALSE
+École Polytechnique Fédérale de Lausanne,Effective Programming in Scala,4.7,148,Intermediate , Course , 1 - 3 Months,FALSE
+Universidad de Palermo,Administración de Empresas,4.8,1.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+IBM,Getting Started with AI using IBM Watson,4.5,2.8k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Illinois at Urbana-Champaign,Introduction to Sustainability,4.8,2.5k,Mixed , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,"FinTech: Foundations, Payments, and Regulations",4.6,2.3k,Beginner , Course , 1 - 4 Weeks,FALSE
+Meta,Desarrollador front-end de Meta,4.5,71,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Johns Hopkins University,Data Visualization & Dashboarding with R,4.8,354,Beginner , Specialization , 3 - 6 Months,FALSE
+Rice University,Mindfulness and Well-being,4.8,973,Beginner , Specialization , 3 - 6 Months,FALSE
+Aptly,Marketing with TikTok,4.7,91,Beginner , Specialization , 1 - 3 Months,FALSE
+HEC Paris,Business Model Innovation,4.8,532,Mixed , Course , 1 - 3 Months,FALSE
+Google,Gestion de projet de Google,4.5,21,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+IBM,Introduction to Hardware and Operating Systems,4.8,877,Beginner , Course , 1 - 3 Months,FALSE
+Yale University,Addiction Treatment: Clinical Skills for Healthcare Providers,4.8,1.7k,Beginner , Course , 1 - 3 Months,FALSE
+Autodesk,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,4.7,919,Advanced , Course , 1 - 4 Weeks,FALSE
+Duke University,Data Science Math Skills,4.5,11.4k,Beginner , Course , 1 - 3 Months,FALSE
+Georgia Institute of Technology,Introduction to Engineering Mechanics,4.8,4.8k,Mixed , Course , 1 - 3 Months,FALSE
+University of Geneva,Precision Medicine,4.4,227,Intermediate , Course , 1 - 3 Months,FALSE
+Arm,Arm Cortex-M Architecture and Software Development,4.7,86,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of California San Diego,Biology Meets Programming: Bioinformatics for Beginners,4.2,1.5k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Toronto,The Arts and Science of Relationships: Understanding Human Needs,4.5,1.6k,Beginner , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Introduction to Operations Management,4.4,2.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+IBM,Generative AI: Introduction and Applications,4.6,14,Beginner , Course , 1 - 4 Weeks,FALSE
+"Akamai Technologies, Inc.",Akamai Customer Consulting and Support,4.9,27,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+"Akamai Technologies, Inc.",Akamai Network Engineering,4.9,27,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Rice University,Introduction to Scripting in Python,4.7,4.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Georgia Institute of Technology,Linear Circuits 1: DC Analysis,4.5,1.4k,Mixed , Course , 1 - 3 Months,FALSE
+University of Washington,Computational Neuroscience,4.6,1k,Beginner , Course , 1 - 3 Months,FALSE
+UNSW Sydney (The University of New South Wales),Introduction to Systems Engineering,4.7,737,Mixed , Course , 1 - 3 Months,FALSE
+"University of California, Davis",Wine Tasting: Sensory Techniques for Wine Analysis,4.7,496,Beginner , Course , 1 - 3 Months,FALSE
+Arizona State University,Battery Technologies,4.7,33,Beginner , Specialization , 3 - 6 Months,FALSE
+The Pennsylvania State University,"Creativity, Innovation and Transformation",4.5,640,Mixed , Course , 1 - 4 Weeks,FALSE
+"Parsons School of Design, The New School",Healthier Materials and Sustainable Building,5,10,Intermediate , Specialization , 1 - 3 Months,FALSE
+IBM,Developing AI Applications with Python and Flask,4.4,515,Intermediate , Course , 1 - 4 Weeks,FALSE
+University of Michigan,"Python Project: pillow, tesseract, and opencv",4,1.9k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Vanderbilt University,Android App Development,4.5,3.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Inspiring and Motivating Individuals,4.8,5.4k,Beginner , Course , 1 - 4 Weeks,FALSE
+Emory University,Weight Management: Beyond Balancing Calories,4.7,1.1k,Beginner , Course , 1 - 3 Months,FALSE
+Duke University,"Spark, Hadoop, and Snowflake for Data Engineering",None,None,Advanced , Course , 1 - 4 Weeks,FALSE
+Yale University,Everyday Parenting: The ABCs of Child Rearing,4.9,2.8k,Beginner , Course , 1 - 4 Weeks,FALSE
+Tecnológico de Monterrey,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,4.7,972,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,Financial Technology (Fintech) Innovations,4.7,2.4k,Beginner , Specialization , 3 - 6 Months,FALSE
+PwC,Data-driven Decision Making,4.6,6k,Beginner , Course , 1 - 4 Weeks,FALSE
+Michigan State University,Write A Feature Length Screenplay For Film Or Television,4.6,192,Beginner , Course , 3 - 6 Months,FALSE
+Arizona State University,Teach English Now! Foundational Principles,4.9,13.9k,Mixed , Course , 1 - 3 Months,FALSE
+Meta,Introduction to Back-End Development,4.8,2.6k,Beginner , Course , 1 - 4 Weeks,FALSE
+California Institute of the Arts,Visual Elements of User Interface Design,4.7,5.8k,Beginner , Course , 1 - 3 Months,FALSE
+MedCerts,Medical Terminology and the Human Body Fundamentals,4.8,32,Beginner , Course , 1 - 4 Weeks,FALSE
+DeepLearning.AI,Generative AI for Everyone,None,None,Course,None,None,FALSE
+Microsoft,Introduction to Microsoft Azure Cloud Services,4.6,1.8k,Beginner , Course , 1 - 4 Weeks,FALSE
+Duke University,Introduction to Logic and Critical Thinking,4.6,3.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+The State University of New York,Foundations for Assisting in Home Care,4.8,361,Mixed , Course , 3 - 6 Months,FALSE
+Northwestern University,Social Media Marketing,4.6,5.3k,Beginner , Specialization , 3 - 6 Months,FALSE
+Autodesk,CAD and Digital Manufacturing,4.7,5k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Illinois at Urbana-Champaign,"Federal Taxation I: Individuals, Employees, and Sole Proprietors",4.9,599,Intermediate , Course , 1 - 3 Months,FALSE
+Yale University,Introduction to Medical Software,4.8,119,Intermediate , Course , 3 - 6 Months,FALSE
+University of Colorado Boulder,"Everyday Excel, Part 1",4.7,3.2k,Beginner , Course , 1 - 3 Months,FALSE
+University of Minnesota,User Interface Design,4.6,1.7k,Intermediate , Specialization , 3 - 6 Months,FALSE
+IESE Business School,Strategy and Sustainability,4.7,471,Beginner , Course , 1 - 3 Months,FALSE
+University of Colorado System,C++ Programming for Unreal Game Development,4.5,159,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Michigan,"Sleep: Neurobiology, Medicine, and Society",4.8,714,Beginner , Course , 1 - 3 Months,FALSE
+Columbia University,Introduction to Financial Engineering and Risk Management,4.6,158,Intermediate , Course , 1 - 3 Months,FALSE
+University of Pittsburgh,Clinical Terminology for International and U.S. Students,4.8,3k,Beginner , Course , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,Financial Planning for Young Adults,4.6,1.3k,Beginner , Course , 1 - 3 Months,FALSE
+Pontificia Universidad Católica de Chile,English for Common Interactions in the Workplace: Basic Level,4.7,1.3k,Mixed , Course , 1 - 3 Months,FALSE
+Universidad Nacional Autónoma de México,Finanzas corporativas,4.7,2.6k,Intermediate , Specialization , 3 - 6 Months,FALSE
+Coursera Project Network,Understanding Basic SQL Syntax,4.7,84,Beginner , Guided Project , Less Than 2 Hours,FALSE
+"Nanyang Technological University, Singapore",Introduction to Forensic Science,4.9,2.2k,Mixed , Course , 1 - 3 Months,FALSE
+University of Minnesota,Software Development Lifecycle,4.7,9k,Intermediate , Specialization , 3 - 6 Months,FALSE
+MathWorks,Image Processing for Engineering and Science,4.8,114,Beginner , Specialization , 1 - 3 Months,FALSE
+Starweaver,Relationship Management and Business Development,4.6,20,Intermediate , Course , 1 - 4 Weeks,FALSE
+University of Colorado Boulder,Expressway to Data Science: Essential Math,4.5,308,Intermediate , Specialization , 3 - 6 Months,FALSE
+Meta,React Basics,4.7,1.4k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Colorado Boulder,Introduction to High-Performance and Parallel Computing,3.2,81,Beginner , Course , 1 - 4 Weeks,FALSE
+The Hong Kong University of Science and Technology,FinTech: Finance Industry Transformation and Regulation,4.7,763,Beginner , Specialization , 3 - 6 Months,FALSE
+HRCI,Learning and Development,4.7,100,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Michigan,Alexander Technique: Balanced Posture for Ease and Comfort,None,None,Beginner , Course , 1 - 3 Months,FALSE
+University of Michigan,Introduction to Data Science in Python,4.5,26.8k,Intermediate , Course , 1 - 4 Weeks,FALSE
+Advancing Women in Tech,Real-World Cloud Product Management,4.7,65,Beginner , Specialization , 1 - 3 Months,TRUE
+JetBrains,Kotlin for Java Developers,4.7,2k,Intermediate , Course , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,Accounting Data Analytics,4.7,517,Intermediate , Specialization , 3 - 6 Months,TRUE
+IESE Business School,Claves de la Dirección de Empresas,4.8,3.2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Macquarie University,Analysing: Numeric and digital literacies,4.6,1.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of California, Irvine",Initiating and Planning Projects,4.7,22.4k,Mixed , Course , 1 - 3 Months,FALSE
+Meta,Fundamentals of Social Media Advertising,4.8,2.1k,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Davis",Health Information Literacy for Data Analytics,4.4,201,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Geneva,Water Cooperation and Diplomacy,None,None,Intermediate , Course , 1 - 3 Months,FALSE
+University of California San Diego,Big Data,4.5,13.6k,Beginner , Specialization , 3 - 6 Months,FALSE
+The University of Notre Dame,Ethical Leadership,4.8,51,Beginner , Specialization , 3 - 6 Months,FALSE
+LearnQuest,Mastering Final Cut Pro,4.5,197,Beginner , Course , 1 - 3 Months,FALSE
+Emory University,Finance for Non-Financial Managers,4.4,385,Intermediate , Course , 1 - 3 Months,FALSE
+University of London,Refugees in the 21st Century,4.8,501,Beginner , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Operations Analytics,4.7,5k,Mixed , Course , 1 - 4 Weeks,FALSE
+LearnQuest,Introduction to Scrum Master Training,4.7,1.7k,Beginner , Course , 1 - 3 Months,FALSE
+Commonwealth Education Trust,Foundations of Teaching for Learning: Introduction,4.6,744,Mixed , Course , 1 - 4 Weeks,FALSE
+University at Buffalo,Improving Leadership & Governance in Nonprofit Organizations,4.4,222,Beginner , Specialization , 3 - 6 Months,FALSE
+Universidad de Palermo,Dirección y Gestión de Negocios,4.8,1.6k,Beginner , Specialization , 1 - 3 Months,FALSE
+HEC Paris,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,4.6,733,Intermediate , Course , 1 - 4 Weeks,FALSE
+IBM,Cybersecurity Compliance Framework & System Administration,4.7,3.1k,Beginner , Course , 1 - 3 Months,FALSE
+Johns Hopkins University,Foundations of Global Health,4.7,1.1k,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Building No-Code Apps with AppSheet,4.7,124,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,4.7,518,Intermediate , Course , 1 - 3 Months,FALSE
+Microsoft,Data Modeling in Power BI,4.3,90,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,The Nuts and Bolts of Machine Learning,4.8,149,Advanced , Course , 1 - 3 Months,FALSE
+IBM,Coding for Beginners: An Easy Introduction,2.9,18,Beginner , Guided Project , Less Than 2 Hours,FALSE
+University of Geneva,Children's Human Rights - An Interdisciplinary Introduction,4.7,2k,Beginner , Course , 1 - 3 Months,FALSE
+Google,Цифровий маркетинг і електронна комерція від Google,4.9,1.2k,Beginner , Professional Certificate , 3 - 6 Months,FALSE
+Johns Hopkins University,Data Science: Statistics and Machine Learning,4.4,7.1k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of London,Foundations of Data Science: K-Means Clustering in Python,4.6,619,Beginner , Course , 1 - 3 Months,FALSE
+"University of California, Irvine",Conflict Management,4.4,2k,Beginner , Specialization , 3 - 6 Months,FALSE
+Sciences Po,Politics and Economics of International Energy,4.7,1.7k,Beginner , Course , 1 - 3 Months,FALSE
+IBM,"Penetration Testing, Incident Response and Forensics",4.6,2.2k,Beginner , Course , 1 - 4 Weeks,FALSE
+Duke University,English Composition I,4.6,1.1k,Beginner , Course , 1 - 3 Months,FALSE
+University of Colorado System,Data Warehousing for Business Intelligence,4.5,3.9k,Advanced , Specialization , 3 - 6 Months,FALSE
+University of California San Diego,Algorithmic Toolbox,4.6,12.3k,Intermediate , Course , 1 - 3 Months,FALSE
+University of Toronto,Gender Analytics: Gender Equity through Inclusive Design,4.8,478,Beginner , Specialization , 3 - 6 Months,FALSE
+Coursera Project Network,ChatGPT for Beginners: Save time with Microsoft Excel,4.6,27,Intermediate , Guided Project , Less Than 2 Hours,FALSE
+University of Western Australia,Blood Film Morphology - A Practical Guide,4.8,50,Intermediate , Course , 1 - 3 Months,FALSE
+Louisiana State University,Flores Master of Business Administration,None,None,Degree,None,None,FALSE
+University of Illinois at Urbana-Champaign,Managerial Economics and Business Analysis,4.8,3.8k,Beginner , Specialization , 3 - 6 Months,TRUE
+Infosec,Python for Cybersecurity,4.5,334,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Colorado Boulder,Introduction to Systems Engineering,5,17,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Pennsylvania,People Analytics,4.6,5.9k,Mixed , Course , 1 - 4 Weeks,FALSE
+University of Virginia,Foundations of Business Strategy,4.8,2.9k,Beginner , Course , 1 - 4 Weeks,FALSE
+National Academy of Sports Medicine,Science of Diet and Exercise,4.6,35,Intermediate , Specialization , 1 - 4 Weeks,FALSE
+"University of California, Irvine",Learn English: Advanced Grammar and Punctuation,4.8,2.5k,Advanced , Specialization , 3 - 6 Months,FALSE
+IBM,"Introduction to Containers w/ Docker, Kubernetes & OpenShift",4.4,630,Intermediate , Course , 1 - 3 Months,FALSE
+Imperial College London,Epidemiology for Public Health,4.8,1.1k,Beginner , Specialization , 1 - 3 Months,FALSE
+University of London,Machine Learning for All,4.7,3.3k,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Colorado Boulder,Probability Theory: Foundation for Data Science,4.4,138,Intermediate , Course , 1 - 3 Months,FALSE
+MedCerts,Medical Billing and Coding Essentials,4.8,82,Beginner , Course , 1 - 4 Weeks,FALSE
+Stanford University,Evaluations of AI Applications in Healthcare,4.5,174,Beginner , Course , 1 - 3 Months,FALSE
+Hebrew University of Jerusalem,Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course),4.9,492,Mixed , Course , 1 - 3 Months,FALSE
+Duke University,Introduction to Genetics and Evolution,4.8,1.5k,Mixed , Course , 1 - 3 Months,FALSE
+University of London,Cyber Security Fundamentals,4.7,117,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Introduction to Git and GitHub,4.8,7k,Beginner , Course , 1 - 4 Weeks,FALSE
+"University of California, Irvine",Diversity and Inclusion for HR Professionals,4.7,168,Beginner , Course , 1 - 4 Weeks,FALSE
+Arizona State University,AI Foundations: Prompt Engineering with ChatGPT,3.9,8,Beginner , Course , 1 - 3 Months,FALSE
+University of London,Global Diplomacy: the United Nations in the World,4.7,1.5k,Beginner , Course , 1 - 3 Months,FALSE
+Meta,Advertising with Meta,4.8,2.2k,Beginner , Course , 1 - 3 Months,FALSE
+University of Geneva,Rédaction de contrats,4.8,759,Mixed , Course , 1 - 3 Months,FALSE
+"University of California, Irvine",Introduction to Cybersecurity & Risk Management,4.7,210,Beginner , Specialization , 1 - 3 Months,FALSE
+Copenhagen Business School,Business Models For Sustainability,4.7,23,Beginner , Course , 1 - 3 Months,FALSE
+Duke University,FinTech Law and Policy,4.8,813,Beginner , Course , 1 - 3 Months,FALSE
+University of California San Diego,Drug Discovery,4.6,3.5k,Beginner , Course , 1 - 3 Months,FALSE
+Stanford University,Introduction to Logic,4.4,624,Intermediate , Course , 1 - 3 Months,FALSE
+Università Bocconi,Financing and Investing in Infrastructure,4.8,1.9k,Mixed , Course , 1 - 3 Months,FALSE
+The University of Edinburgh,EDIVET: Do you have what it takes to be a veterinarian?,4.8,2.3k,Mixed , Course , 1 - 3 Months,FALSE
+SAS,SAS Advanced Programmer,4.8,345,Intermediate , Professional Certificate , 3 - 6 Months,TRUE
+Wesleyan University,Schizophrenia,4.8,2.1k,Intermediate , Course , 1 - 3 Months,FALSE
+University of Pennsylvania,Negotiations,4.5,32,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Google Data Analytics,None,None,,None,None,FALSE
+Google,Google Cybersecurity,None,None,,None,None,FALSE
+The University of Sydney,"Innovation Through Design: Think, Make, Break, Repeat",4.7,1.8k,Beginner , Course , 1 - 3 Months,FALSE
+University of Washington,Introduction to Public Speaking,4.8,2k,Beginner , Course , 1 - 3 Months,FALSE
+University of Toronto,The Social Context of Mental Health and Illness,4.7,510,Mixed , Course , 1 - 3 Months,FALSE
+INSEAD,Blockchain Revolution in Financial Services,4.7,923,Beginner , Specialization , 3 - 6 Months,FALSE
+ESSEC Business School,Diversité et inclusion sur le lieu de travail,4.9,8,Beginner , Course , 1 - 4 Weeks,FALSE
+Technical University of Denmark (DTU),Introduction to Industrial Bioprocess Development,4.8,115,Beginner , Course , 1 - 3 Months,FALSE
+Wesleyan University,Creative Writing: The Craft of Plot,4.7,4.7k,Mixed , Course , 1 - 4 Weeks,FALSE
+University of Leeds,Foundations of Software Testing and Validation,4.7,73,Beginner , Course , 1 - 4 Weeks,FALSE
+University of London,Responsive Website Development and Design,4.5,7.5k,Beginner , Specialization , 3 - 6 Months,FALSE
+University of Michigan,High Stakes Leadership: Leading in Times of Crisis,4.7,407,Intermediate , Course , 1 - 4 Weeks,FALSE
+INSEAD,Web3 and Blockchain in Global Commerce,4.7,46,Beginner , Specialization , 3 - 6 Months,FALSE
+Google Cloud,Building Scalable Java Microservices with Spring Boot and Spring Cloud,4.3,1.2k,Intermediate , Course , 1 - 4 Weeks,FALSE
+The University of North Carolina at Chapel Hill,Positive Psychology,4.7,5.8k,Mixed , Course , 1 - 3 Months,FALSE
+Fractal Analytics,GenAI for Everyone,4.2,88,Beginner , Course , 1 - 4 Weeks,FALSE
+Macquarie University,Excel Fundamentals for Data Analysis,4.8,3.5k,Intermediate , Course , 1 - 3 Months,FALSE
+University of Illinois at Urbana-Champaign,Formal Financial Accounting,4.8,357,Beginner , Course , 1 - 3 Months,FALSE
+University of Virginia,Cost and Economics in Pricing Strategy,4.8,649,Beginner , Course , 1 - 4 Weeks,FALSE
+"University of California, Irvine",Essentials of Management and Strategic Planning,4.6,92,Beginner , Course , 1 - 4 Weeks,FALSE
+University of Pennsylvania,English for Journalism,4.8,2.7k,Mixed , Course , 1 - 3 Months,FALSE
+University System of Georgia,Professional Selling: 3 Steps to High-Performance,4.7,17,Beginner , Specialization , 3 - 6 Months,FALSE
+University of London,Global Energy and Climate Policy,4.7,610,Beginner , Course , 1 - 3 Months,FALSE
+Universidade de São Paulo,Marketing Digital,4.8,2.1k,Beginner , Course , 1 - 3 Months,FALSE
+"University of Maryland, College Park",Fundamentals of Technology Sales,4.6,69,Beginner , Course , 1 - 3 Months,FALSE
+University of Toronto,Aboriginal Worldviews and Education,4.7,432,Beginner , Course , 1 - 3 Months,FALSE
+HEC Paris,Entrepreneurship Strategy: From Ideation to Exit,4.8,875,Beginner , Course , 1 - 4 Weeks,FALSE
+École des Ponts ParisTech,The hidden value – Lean in manufacturing and services,4.8,773,Beginner , Course , 1 - 4 Weeks,FALSE
+Coursera Project Network,Spreadsheets for Beginners using Google Sheets,4.7,2.1k,Beginner , Guided Project , Less Than 2 Hours,FALSE
+DeepLearning.AI,AI and Climate Change,4.8,46,Beginner , Course , 1 - 4 Weeks,FALSE
+Google,Google Project Management:,None,None,,None,None,FALSE
+Universidad Nacional Autónoma de México,Finanzas personales,4.8,8.1k,Mixed , Course , 1 - 3 Months,FALSE
+Stanford University,Social and Economic Networks:  Models and Analysis,4.8,714,Advanced , Course , 1 - 3 Months,FALSE
+University of London,Business and Marketing Strategies,4.4,130,Beginner , Specialization , 3 - 6 Months,FALSE
+"University of Maryland, College Park",Interviewing and Resume Writing in English,4.6,710,Intermediate , Specialization , 3 - 6 Months,FALSE
+Fundação Instituto de Administração,Strategic Sales Management,4.5,427,Intermediate , Specialization , 3 - 6 Months,FALSE
+The University of Melbourne,Essentials of Corporate Finance,4.6,1.8k,Intermediate , Specialization , 3 - 6 Months,FALSE
+University of Illinois at Urbana-Champaign,Innovation: From Creativity to Entrepreneurship,4.8,3.2k,Beginner , Specialization , 3 - 6 Months,TRUE
+Coursera Project Network,Excel for Beginners: Pivot Tables,4.6,52,Beginner , Guided Project , Less Than 2 Hours,FALSE
+University of Massachusetts Global,Bachelor of Arts in Psychology,None,None,None,Degree , 1 - 4 Years,TRUE
+Pontificia Universidad Católica de Chile,Magíster en Salud Pública Global,None,None,None,Degree , 24 meses.,TRUE
+Universidad de los Andes,Maestría en Inteligencia Artificial,None,None,None,Degree , 24 meses,TRUE
+Universidad de los Andes,Maestría en Ingeniería de Software,None,None,None,Degree , 26 meses,TRUE
+Illinois Institute of Technology,Master of Information Technology,None,None,None,Degree , 1 - 4 Years,TRUE
+Universidad de los Andes,"Analítica de datos: visualización, predicción y toma de decisiones",None,None,None,Mastertrack , 4 meses,TRUE
+Universidad de los Andes,Introducción a la Inteligencia Artificial,None,None,None,Mastertrack , 4 meses,TRUE
+Universidad de Palermo,Administración de Empresas Certificado MasterTrack®,None,None,None,Mastertrack , 4 meses,TRUE
+Universidad de los Andes,Principios de ingeniería de software automatizada y ágil Programa de Certificado MasterTrack®,None,None,None,Mastertrack , 4 meses,TRUE
+Pontificia Universidad Católica de Chile,Certificado en Gestión de Inversiones,None,None,None,Mastertrack , 6 meses,TRUE
+University of Michigan,Sustainability and Development MasterTrack® Certificate,None,None,None,Mastertrack , 4-6 months to complete,TRUE
+Pontificia Universidad Católica de Chile,Certificado en Bases de la Salud Pública,None,None,None,Mastertrack , 4 meses,TRUE
+Rutgers University,Supply Chain Excellence MasterTrack® Certificate,None,None,None,Mastertrack , 4 months to complete,TRUE
+Universidad de los Andes,Metodologías ágiles de desarrollo de software Programa de Certificado MasterTrack®,None,None,None,Mastertrack , 4 meses,TRUE
+Pontificia Universidad Católica de Chile,Certificado en Toma de Decisiones Basadas en Datos,None,None,None,Mastertrack , 6 meses,TRUE
+Pontificia Universidad Católica de Chile,Certificado en Finanzas Corporativas,None,None,None,Mastertrack , 6 meses,TRUE
+Pontificia Universidad Católica de Chile,Certificado en Gestión y Políticas en Salud Pública,None,None,None,Mastertrack , 4 meses,TRUE
+University of Illinois at Urbana-Champaign,Instructional Design MasterTrack® Certificate,None,None,None,Mastertrack , 4 months,TRUE
+University of Michigan,Construction Engineering and Management MasterTrack® Certificate,None,None,None,Mastertrack , 6-7 months to complete,TRUE
+Pontificia Universidad Católica de Chile,Certificado en Introducción a la Ciencia de Datos,None,None,None,Mastertrack , 4 meses,TRUE
+University of Michigan,Social Work MasterTrack® Certificate,None,None,None,Mastertrack , 4 months,TRUE
+Pontificia Universidad Católica de Chile,Certificado en Modelos Analíticos para la Toma de Decisiones de Negocio,None,None,None,Mastertrack , 6 meses,TRUE
+University of Pennsylvania,Master of Computer and Information Technology,None,None,None,Degree , 16 – 60 months,TRUE
+Illinois Institute of Technology,Bachelor in Information Technology,None,None,None,Degree , 1 - 4 Years,TRUE
+University of London,Master of Science in Cyber Security,None,None,None,Degree , 24 - 60 months,TRUE
+Louisiana State University,Master of Science in Construction Management,None,None,None,Degree , 1 - 4 Years,TRUE
+Universidad de los Andes,Maestría en Inteligencia Analítica de Datos,None,None,None,Degree , 24 meses,TRUE
+Imperial College London,Master of Science in Machine Learning and Data Science,None,None,None,Degree , 24 months,TRUE
+S.P. Jain Institute of Management and Research,Post Graduate Diploma in Management Online,None,None,None,Postgraduate Diploma , 6 - 12 Months,FALSE
+Pontificia Universidad Católica de Chile,Magíster en Inversiones y Finanzas Aplicadas,None,None,None,Degree , 24 meses.,TRUE
+Louisiana State University,Master of Arts in Education - Educational Technology,None,None,None,Degree , 1 - 4 Years,TRUE
+University of North Texas,Bachelor of Applied Arts and Sciences,None,None,None,Degree , 15+ hours of study/wk per course,TRUE
+University of Michigan,Master of Public Health,None,None,None,Degree , 2 years,TRUE
+Universidad de Palermo,Maestría en Dirección de Empresas (MBA),None,None,None,Degree , 24 meses,TRUE
+University of London,Bachelor of Science in Business Administration,None,None,None,Degree , 3 – 6 years,TRUE
+Northeastern University,MS in Management: Healthcare,None,None,None,Degree , 12 months,TRUE
+Dartmouth College,Master of Engineering in Computer Engineering,None,None,None,Degree , 1 - 4 Years,TRUE
+University of Illinois at Urbana-Champaign,Master of Science in Management,None,None,None,Degree , 1 year,TRUE
+IIT Roorkee,Executive MBA,None,None,None,Degree , 24 to 60 months,TRUE
+Louisiana State University,Master of Arts in Education - Higher Education Administration,None,None,None,Degree , 1 - 4 Years,TRUE
+University of North Texas,Bachelor of Science in General Business,None,None,None,Degree , 4 years,TRUE
+Northeastern University,Master of Science in Information Systems,None,None,None,Degree , 1 - 4 Years,TRUE
+University of Illinois at Urbana-Champaign,Master of Computer Science (feat. Data Science Track),None,None,None,Degree , 1 – 3 years,TRUE
+University of Colorado Boulder,Master of Science in Data Science,None,None,None,Degree , 2 years,TRUE
+Indian Statistical Institute,Postgraduate Diploma in Applied Statistics,None,None,None,Postgraduate Diploma , 6 - 12 Months,FALSE
+Louisiana State University,Master of Science in Analytics,None,None,None,Degree , 1 - 4 Years,TRUE
+University of Colorado Boulder,Master of Science in Computer Science,None,None,None,Degree , 1 - 4 Years,TRUE
+University of Colorado Boulder,Master of Engineering in Engineering Management,None,None,None,Degree , 24 months,TRUE
+O.P. Jindal Global University,MBA Business Analytics,None,None,None,Degree , 24 - 36 months,TRUE
+West Virginia University,Master of Science in Software Engineering,None,None,None,Degree , 24 months,TRUE
+Ball State University,Master of Science in Data Science,None,None,None,Degree , 1 - 4 Years,TRUE
+Illinois Institute of Technology,Master of Business Administration,None,None,None,Degree , 1 - 4 Years,TRUE
+HEC Paris,Executive MSc & MSc in Innovation and Entrepreneurship,None,None,None,Degree , 18-24 Months,TRUE
+Georgetown University,Bachelor of Arts in Liberal Studies,None,None,None,Degree , 2 to 4 years depending on beginning credits and course load,TRUE
+BITS Pilani,Bachelor of Science in Computer Science,None,None,None,Degree , 3- 6 years,TRUE
+Pontificia Universidad Católica de Chile,Magíster en Ciencia de Datos,None,None,None,Degree , 24 meses,TRUE
+University of Leeds,Master of Science in Data Science (Statistics),None,None,None,Degree , 24 months,TRUE
+University of Michigan,Master of Applied Data Science,None,None,None,Degree , 1 – 3 years,TRUE
+University of London,Bachelor of Science in Computer Science,None,None,None,Degree , 3 – 6 years,TRUE
+University of Maryland Global Campus,Bachelor of Science in Cybersecurity Technology,None,None,None,Degree , 1 - 4 Years,TRUE
+University of Illinois at Urbana-Champaign,Master of Science in Accounting,None,None,None,Degree , 1.5 – 3 years,TRUE
+University of London,Bachelor of Science in Marketing,None,None,None,Degree , 3 – 6 years,TRUE
+Ball State University,Master of Science in Computer Science,None,None,None,Degree , 1 - 4 Years,TRUE
+Louisiana State University,Master of Science in Civil Engineering,None,None,None,Degree , 1 - 4 Years,TRUE
+O.P. Jindal Global University,M.A. Public Policy,None,None,None,Degree , 24 - 36 months,TRUE
+University of Colorado Boulder,Master of Science in Electrical Engineering,None,None,None,Degree , 2 years,TRUE
+Pontificia Universidad Católica de Chile,Magíster en Business Analytics,None,None,None,Degree , 24 meses,TRUE
+Illinois Institute of Technology,Master of Data Science,None,None,None,Degree , 1 - 4 Years,TRUE
+IIT Guwahati,Bachelor of Science in Data Science & AI,None,None,None,Degree , 4-8 years,TRUE
+University of Illinois at Urbana-Champaign,Master of Business Administration (iMBA),None,None,None,Degree , 2 – 3 years,TRUE
+Imperial College London,Postgraduate Certificate of Public Health,None,None,None,Postgraduate Diploma , 6 - 12 Months,FALSE
+Imperial College London,Global Master of Public Health,None,None,None,Degree , 2 or 3 years,TRUE
+Northeastern University,Master of Science in Data Analytics Engineering,None,None,None,Degree , 1 - 4 Years,TRUE
+University of Maryland Global Campus,Bachelor of Science in Cybersecurity Management and Policy,None,None,None,Degree , 1 - 4 Years,TRUE
+Louisiana State University,Master of Science in Leadership and Human Resource Development,None,None,None,Degree , 1 - 4 Years,TRUE
+"University of California, Berkeley",Master of Advanced Study in Engineering,None,None,None,Degree , 1 - 4 Years,TRUE
+O.P. Jindal Global University,"M.A. in International Relations, Security, and Strategy",None,None,None,Degree ,  24 - 36 months,TRUE
+Louisiana State University,Flores Master of Business Administration,None,None,None,Degree , 1 - 4 Years,TRUE
+Universidad de los Andes,Maestría en Gerencia de la Ingeniería,None,None,None,Degree , 18 a 24 meses,TRUE
+University of Illinois,Graduate Certificate in Taxation,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+IIT Guwahati,Post Graduate Certificate in Digital Manufacturing,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of Illinois,Graduate Certificate in Accounting Data Analytics,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+University of Colorado Boulder,Engineering Management Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+ IIT Guwahati,Post Graduate Certificate in Deep Learning for Computer Vision & Extended Reality (XR),None,None,None,University Certificate , 6 - 12 Months,FALSE
+IIT Roorkee,Post Graduate Certificate in Data Science & Machine Learning,None,None,None,University Certificate , 6 - 12 Months,FALSE
+Indian School of Business,Certificate in Strategic Leadership,None,None,None,University Certificate , 6 - 12 Months,FALSE
+Dartmouth College,Digital Transformation Certificate,None,None,None,University Certificate , 6 - 12 Months,FALSE
+HEC Paris,Leading Innovation With Creativity University Certificate,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of Illinois,CPA Pathways Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+University of London,Graduate Diploma in Computer Science,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+IIT Guwahati,Post Graduate Certificate in UX Design and HCI,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of Colorado Boulder,Power Electronics Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+IIT Guwahati,Post Graduate Certificate in Robotics and Mechatronics,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of Colorado Boulder,Data Science Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+HEC Paris,Trust Based Leadership University Certificate,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of Illinois ,Managerial Economics & Business Analysis Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+University of Colorado Boulder,Semiconductor Photonics Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+IIT Guwahati,Post Graduate Certificate in Natural Language Processing,None,None,None,University Certificate , 6 - 12 Months,FALSE
+HEC Paris,Innovation Management and Entrepreneurship University Certificate,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of Illinois,Graduate Certificate in Digital Marketing,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+University of Illinois,Financial Management Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+IIT Bombay,Digital Transformation Certificate,None,None,None,University Certificate , 6 - 12 Months,FALSE
+IIT Roorkee,Post Graduate Certificate in 5G Technology and IoT,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of London,Graduate Certificate in Computer Science,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+University of Illinois,Value Chain Management Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+University of Colorado Boulder,Industrial Internet of Things Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+University of Illinois,Global Challenges in Business Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+University of Illinois,Graduate Certificate in Strategic Leadership & Management,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+IIT Roorkee,Post Graduate Certificate in Machine Learning for Finance,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of Illinois,Accounting Foundations Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
+IIT Roorkee,Post Graduate Certificate in Advanced Machine Learning & AI,None,None,None,University Certificate , 6 - 12 Months,FALSE
+IIT Guwahati,Post Graduate Certificate in Cloud Computing Applications,None,None,None,University Certificate , 6 - 12 Months,FALSE
+IE Business School,Business Essentials University Certificate,None,None,None,University Certificate , 6 - 12 Months,FALSE
+IIT Roorkee,Post Graduate Certificate in Strategic Supply Chain Management with AI,None,None,None,University Certificate , 6 - 12 Months,FALSE
+IIT Bombay,Power Electronics and Motors for Electric Vehicles (EVs) Certificate,None,None,None,University Certificate , 6 - 12 Months,FALSE
+University of Illinois,Entrepreneurship and Strategic Innovation Graduate Certificate,None,None,None,Graduate Certificate , 6 - 12 Months,TRUE
